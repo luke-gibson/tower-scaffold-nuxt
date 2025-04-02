@@ -15,7 +15,7 @@ export interface Service {
 }
 
 
-export interface AboutData {
+export interface HomeData {
   data: {
     content: {
       __component: string;
@@ -26,5 +26,6 @@ export interface AboutData {
         alternativeText: string;
       };
     }[];
+    services?: Service[];
   };
 }

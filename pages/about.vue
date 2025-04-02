@@ -1,20 +1,32 @@
 <script setup lang="ts">
-    import type { IAbout } from '~/types/about';
+  import HeroComponent from '~/components/HeroComponent.vue';
+  import TextComponent from '~/components/TextComponent.vue';
+  import type { AboutData } from '~/types/about';
+  const config = useRuntimeConfig();
 
-    const { findOne } = useStrapi();
+  const { data } = await useAsyncData<AboutData>('about', () => 
+    $fetch(`${config.public.strapiUrl}/api/about?pLevel`)
+  );
 
-    const { data: aboutResponse } = await useAsyncData<IAbout | null>('about', async () => {
-    return findOne<IAbout>('about', { populate: 'image' });
-    });
-
-    const about = computed<IAbout>(() => aboutResponse.value?.data || {} as IAbout);
+  const getComponent = (item: any) => {
+    switch (item.__component) {
+      case 'content.hero':
+        return HeroComponent;
+      case 'content.text':
+        return TextComponent;
+      default:
+        return null;
+    }
+  };
 </script>
 
 <template>
-  <div>
-    <h1>{{ about.name }}</h1>
-    <p>{{ about.description }}</p>
-
-    <img v-if="about.image" :src="about.image.url || about.image.formats?.large?.url" :alt="about.image.alternativeText || 'About Image'" />
+  <div v-if="data">
+    <div v-for="item in data.data.content" :key="item.id">
+      <component 
+        :is="getComponent(item)" 
+        v-bind="item"
+      />
+    </div>
   </div>
 </template>
