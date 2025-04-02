@@ -1,13 +1,14 @@
-<template>
-  <div>
-    
-  </div>
-</template>
+<script setup lang="ts">
+import DynamicContent from '~/components/DynamicContent.vue';
+import type { ServiceData } from '~/types/service';
 
-<script lang="ts" setup>
+const config = useRuntimeConfig();
 
+const { data } = await useAsyncData('services', () => 
+  $fetch<{ data: ServiceData[] }>(`${config.public.strapiUrl}/api/services`)
+);
 </script>
 
-<style>
-
-</style>
+<template>
+  
+</template>

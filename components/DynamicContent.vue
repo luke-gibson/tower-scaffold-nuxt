@@ -1,0 +1,29 @@
+<script setup lang="ts">
+import HeroComponent from '~/components/HeroComponent.vue';
+import TextComponent from '~/components/TextComponent.vue';
+import type { ContentBlock } from '~/types/contentBlock';
+
+const props = defineProps<{ content: ContentBlock[] }>();
+
+const getComponent = (item: ContentBlock) => {
+  switch (item.__component) {
+    case 'content.hero':
+      return HeroComponent;
+    case 'content.text':
+      return TextComponent;
+    default:
+      return null;
+  }
+};
+</script>
+
+<template>
+  <div>
+    <div v-for="item in content" :key="item.id">
+      <component 
+        :is="getComponent(item)" 
+        v-bind="item" 
+      />
+    </div>
+  </div>
+</template>

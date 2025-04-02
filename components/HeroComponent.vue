@@ -1,7 +1,7 @@
 <script setup lang="ts">
   import type { IImage } from '@/types/image';
   defineProps<{
-    copy: string;
+    copy?: string;
     image: IImage;
   }>();
 </script>
@@ -17,11 +17,11 @@
 </template>
 
 <style scoped>
-.hero {
-  padding: 20px;
-}
-.hero img {
-  max-width: 100%;
-  height: auto;
-}
+  .hero {
+    padding: 20px;
+  }
+  .hero img {
+    max-width: 100%;
+    height: auto;
+  }
 </style>

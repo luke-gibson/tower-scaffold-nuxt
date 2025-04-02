@@ -1,13 +1,14 @@
-<template>
-  <div>
-    
-  </div>
-</template>
+<script setup lang="ts">
+  import type { ContactData } from '~/types/contact';
+  const config = useRuntimeConfig();
 
-<script lang="ts" setup>
-
+  const { data } = await useAsyncData<ContactData>('contact', () => 
+    $fetch(`${config.public.strapiUrl}/api/contact?pLevel`)
+  );
 </script>
 
-<style>
-
-</style>
+<template>
+  <div v-if="data">
+    <DynamicContent :content="data.data.content"/>
+  </div>
+</template>

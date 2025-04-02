@@ -1,12 +1,5 @@
 import type { IImage } from './image';
 
-export interface ContentBlock {
-  __component: string;
-  id: number;
-  copy?: string;
-  image?: IImage;
-}
-
 export interface Service {
   id: number;
   title: string;
@@ -14,17 +7,13 @@ export interface Service {
   image: IImage;
 }
 
-
 export interface AboutData {
   data: {
     content: {
       __component: string;
       id: number;
       copy?: string;
-      image?: {
-        url: string;
-        alternativeText: string;
-      };
+      image?: IImage;
     }[];
   };
 }

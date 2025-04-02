@@ -1,13 +1,6 @@
 import type { IImage } from './image';
 
-export interface Service {
-  id: number;
-  title: string;
-  slug: string;
-  image: IImage;
-}
-
-export interface HomeData {
+export interface ContactData {
   data: {
     content: {
       __component: string;
@@ -15,6 +8,5 @@ export interface HomeData {
       copy?: string;
       image?: IImage;
     }[];
-    services?: Service[];
   };
 }
