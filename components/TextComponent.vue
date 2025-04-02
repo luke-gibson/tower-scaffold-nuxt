@@ -1,6 +1,6 @@
 <script setup lang="ts">
   defineProps<{
-    copy: string;
+    copy?: string;
   }>();
 </script>
 
