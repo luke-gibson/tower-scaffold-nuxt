@@ -1,19 +1,19 @@
 <script setup lang="ts">
   import type { IImage } from '@/types/image';
   defineProps<{
-    copy?: string;
+    content?: string;
     image: IImage;
   }>();
 </script>
 
 <template>
-  <div class="hero">
-    <h2>{{ copy }}</h2> 
+  <section class="hero">
+    <h2>{{ content }}</h2> 
     <NuxtImg 
       :src="image.url" 
       :alt="image.alternativeText" 
       />
-  </div>
+  </section>
 </template>
 
 <style scoped>

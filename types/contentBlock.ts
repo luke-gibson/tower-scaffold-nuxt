@@ -3,13 +3,13 @@ import type { IImage } from './image';
 export type ContentTextBlock = {
     __component: 'content.text';
     id: number;
-    copy?: string;
+    content?: string;
   };
   
   export type ContentHeroBlock = {
     __component: 'content.hero';
     id: number;
-    copy?: string;
+    content?: string;
     image: IImage;
   };
   

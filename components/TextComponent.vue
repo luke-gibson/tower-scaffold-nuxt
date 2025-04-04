@@ -1,13 +1,13 @@
 <script setup lang="ts">
   defineProps<{
-    copy?: string;
+    content?: string;
   }>();
 </script>
 
 <template>
-  <div class="text">
-    <h1>{{ copy }}</h1>
-  </div>
+  <section class="text">
+    <h1>{{ content }}</h1>
+  </section>
 </template>
 
 <style scoped>
