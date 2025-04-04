@@ -3,6 +3,7 @@
     defineProps<{ 
         title: string; 
         slug: string, 
+        description: string;
         image: IImage 
     }>();
 </script>
@@ -10,6 +11,7 @@
 <template>
   <NuxtLink :to="`/services/${slug}`" class="service-card">
     <h3>{{ title }}</h3>
+    <p>{{ description }}</p>
     <NuxtImg
       :src="image?.url"
       :alt="image?.alternativeText"

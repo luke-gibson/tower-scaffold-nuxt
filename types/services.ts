@@ -4,10 +4,11 @@ export interface Service {
   id: number;
   title: string;
   slug: string;
+  description: string;
   image: IImage;
 }
 
-export interface AboutData {
+export interface ServicesData {
   data: {
     title?: string;
     description?: string;
@@ -18,5 +19,6 @@ export interface AboutData {
       copy?: string;
       image?: IImage;
     }[];
+    services?: Service[];
   };
 }

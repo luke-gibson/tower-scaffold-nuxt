@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import type { HomeData } from '~/types/home';
+import type { ServicesData } from '~/types/services';
 const config = useRuntimeConfig();
 
-const { data } = await useAsyncData<HomeData>('home', () => 
-  $fetch(`${config.public.strapiUrl}/api/home?pLevel`)
+const { data } = await useAsyncData<ServicesData>('services-page', () => 
+  $fetch(`${config.public.strapiUrl}/api/services-page?pLevel`)
 );
 
 useSeoMeta({
@@ -17,9 +17,7 @@ useSeoMeta({
 </script>
 
 <template>
-  <div v-if="data">    
-    <DynamicContent :content="data.data.content"/>
-
+  <div v-if="data">
     <div v-if="data.data.services?.length" class="services">
       <h2>Our Services</h2>
       <div class="service-list">
