@@ -2,7 +2,7 @@
 import type { ServicesData } from '~/types/services';
 const config = useRuntimeConfig();
 
-const { data } = await useAsyncData<ServicesData>('services-page', () => 
+const { data } = await useAsyncData<ServicesData>('services', () => 
   $fetch(`${config.public.strapiUrl}/api/services-page?pLevel`)
 );
 
