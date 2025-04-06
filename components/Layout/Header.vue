@@ -32,10 +32,17 @@ watch(isMobileNavOpen, (val) => {
 
 <style scoped lang="scss">
     .c-header {
-        position: relative;
-        background-color: var(--primary);
+        position: absolute;
+        top: 0;
+        z-index: 10;
+        width: 100%;
         padding-top: 1rem;
         padding-bottom: 1rem;
+        transition: background-color 0.3s ease-in-out;
+
+        &:hover {
+          background-color: var(--primary);
+        }
 
         &__container {
             display: flex;

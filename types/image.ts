@@ -7,6 +7,8 @@ export interface IImageFormat {
 export interface IImage {
   id: number;
   alternativeText: string;
+  width: number;
+  height: number;
   formats: {
     small?: IImageFormat;
     medium?: IImageFormat;

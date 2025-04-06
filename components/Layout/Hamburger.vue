@@ -24,16 +24,16 @@ const { toggleNav } = useMobileNav()
 .c-hamburger {
   $root: &;
   position: absolute;
-  top: 1.25rem;
+  top: 2.1rem;
   right: 2rem;
   display: block;
 
   &__line {
-    width: 3.5rem;
-    height: .3rem;
+    width: 3rem;
+    height: .2rem;
     background-color: var(--white);
     display: block;
-    margin: .8rem auto;
+    margin: .7rem auto;
     transition: all 0.3s ease-in-out;
   }
 
@@ -51,7 +51,7 @@ const { toggleNav } = useMobileNav()
         }
 
         &:nth-child(1) {
-          transform: translateY(13px) rotate(45deg);
+          transform: translateY(9px) rotate(45deg);
         }
 
         &:nth-child(3) {

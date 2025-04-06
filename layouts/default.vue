@@ -14,6 +14,7 @@
 
 html {
     font-size: 62.5%;
+    font-family: Fjalla One, sans-serif;
 }
 
 body.is-locked {
@@ -32,7 +33,62 @@ body.is-locked {
     --gray-light: #d3d3d3;
     --gray-dark: #696969;
 
-    --font-size--large: 1.8rem;
+    --font-size--h1: 2.8rem;
+    --font-size--h2: 2.4rem;
+    --font-size--h3: 2rem;
+    --font-size--body: 1.6rem;
+    --font-size--small: 1.4rem;
+    
+    --line-height--heading: 1.2;
+    --line-height--body: 1.6;
+
+    --letter-spacing: .05rem;
+}
+
+@media (min-width: 768px) {
+  :root {
+    --font-size--h1: 3.6rem;
+    --font-size--h2: 3rem;
+    --font-size--h3: 2.4rem;
+    --font-size--body: 1.8rem;
     --font-size--small: 1.5rem;
+    --letter-spacing: .1rem;
+  }
+}
+
+body {
+  font-size: var(--font-size--body);
+  line-height: var(--line-height--body);
+  color: var(--black);
+  background-color: var(--white);
+  letter-spacing: var(--letter-spacing);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: inherit;
+  font-weight: normal;
+  line-height: var(--line-height--heading);
+  margin-bottom: 1.6rem;
+}
+
+h1 {
+  font-size: var(--font-size--h1);
+}
+
+h2 {
+  font-size: var(--font-size--h2);
+}
+
+h3 {
+  font-size: var(--font-size--h3);
+}
+
+p {
+  font-size: var(--font-size--body);
+  margin-bottom: 1.6rem;
+}
+
+small {
+  font-size: var(--font-size--small);
 }
 </style>

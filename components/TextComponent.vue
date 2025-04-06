@@ -1,17 +1,18 @@
 <script setup lang="ts">
+  import type { RichTextBlocks } from '~/types/strapiRichText'
   defineProps<{
-    content?: string;
+    content?: RichTextBlocks[];
   }>();
 </script>
 
 <template>
-  <section class="text">
-    <h1>{{ content }}</h1>
+  <section class="c-text">
+    <RichTextBlocks v-if="content" :data="content"/>
   </section>
 </template>
 
 <style scoped>
-.text {
-  padding: 20px;
-}
+.c-text {
+  margin-bottom: 2rem;
+} 
 </style>
