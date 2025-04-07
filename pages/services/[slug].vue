@@ -27,9 +27,6 @@ useSeoMeta({
 
 <template>
   <div v-if="serviceData">
-    <h1>{{ serviceData.title }}</h1>
-    <p>{{ serviceData.description }}</p>
-
     <DynamicContent v-if="serviceData.content" :content="serviceData.content" />
   </div>
   <p v-else>Service not found.</p>

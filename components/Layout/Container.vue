@@ -1,12 +1,8 @@
 <template>
-  <section class="o-container">
+  <div class="o-container">
     <slot />
-  </section>
+  </div>
 </template>
-
-<script lang="ts" setup>
-
-</script>
 
 <style scoped lang="scss">
 .o-container {

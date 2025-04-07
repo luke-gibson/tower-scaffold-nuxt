@@ -31,7 +31,7 @@
  .c-hero {
     position: relative;
     width: 100%;
-    height: 100vh;
+    height: 80vh;
     overflow: hidden;
 
     &__figure {

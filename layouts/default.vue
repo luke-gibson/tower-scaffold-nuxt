@@ -26,7 +26,7 @@ body.is-locked {
 
 :root {
     --primary: #001489;
-    --secondary: #1D2E82;
+    --secondary: #13172b;
     --white: #ffffff;
     --black: #000000;
     --gray: #808080;
@@ -43,6 +43,8 @@ body.is-locked {
     --line-height--body: 1.6;
 
     --letter-spacing: .05rem;
+
+    --component-spacing: 4rem;
 }
 
 @media (min-width: 768px) {
@@ -53,6 +55,7 @@ body.is-locked {
     --font-size--body: 1.8rem;
     --font-size--small: 1.5rem;
     --letter-spacing: .1rem;
+    --component-spacing: 6rem;
   }
 }
 
@@ -86,9 +89,27 @@ h3 {
 p {
   font-size: var(--font-size--body);
   margin-bottom: 1.6rem;
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
 }
 
 small {
   font-size: var(--font-size--small);
 }
+
+.o-section {
+  margin-top: var(--component-spacing);
+  margin-bottom: var(--component-spacing);
+
+  &--top {
+    margin-top: var(--component-spacing);
+  }
+
+  &--bottom {
+    margin-bottom: var(--component-spacing);
+  }
+}
+
 </style>

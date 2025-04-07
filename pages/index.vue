@@ -20,18 +20,5 @@ useSeoMeta({
 
 <template>
   <DynamicContent v-if="data" :content="data.data.content" />
-
-  <section v-if="services.length" class="services">
-  <h2>Our Services</h2>
-  <div class="service-list">
-    <ServiceCard 
-      v-for="service in services" 
-      :key="service.id" 
-      :title="service.title" 
-      :slug="service.slug" 
-      :description="service.description"
-      :image="service.image"
-    />
-  </div>
-</section>
+  <ServicesGrid v-if="services.length" :services="services" />
 </template>

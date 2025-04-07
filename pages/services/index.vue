@@ -6,6 +6,8 @@ const { data } = await useAsyncData<ServicesData>('services', () =>
   $fetch(`${config.public.strapiUrl}/api/services-page?pLevel`)
 );
 
+const services = computed(() => data.value?.data?.services ?? []);
+
 useSeoMeta({
   title: data.value?.data.title || 'Default Title',
   ogTitle: data.value?.data.title || 'Default Title',
@@ -17,20 +19,6 @@ useSeoMeta({
 </script>
 
 <template>
-  <div v-if="data">
-    <div v-if="data.data.services?.length" class="services">
-      <h2>Our Services</h2>
-      <div class="service-list">
-        <ServiceCard 
-          v-for="service in data.data.services" 
-          :key="service.id" 
-          :title="service.title" 
-          :slug="service.slug" 
-          :description="service.description"
-          :image="service.image"
-        />
-      </div>
-    </div>
-  </div>
-  <p v-else>Loading...</p>
+  <DynamicContent v-if="data" :content="data.data.content"/>
+  <ServicesGrid v-if="services.length" :services="services" />
 </template>
