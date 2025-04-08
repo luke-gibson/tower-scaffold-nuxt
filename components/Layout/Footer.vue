@@ -32,13 +32,13 @@
                 </div>
             </div>
             <div>
-                <NuxtLink to="/" class="c-footer__social">
+                <NuxtLink to="/" class="c-footer__social" aria-label="Link to Facebook">
                     <IconsFacebook />
                 </NuxtLink>
-                <NuxtLink to="/" class="c-footer__social">
+                <NuxtLink to="/" class="c-footer__social" aria-label="Link to Instagram">
                     <IconsInstagram />
                 </NuxtLink>
-                <NuxtLink to="/" class="c-footer__social">
+                <NuxtLink to="/" class="c-footer__social" aria-label="Link to Open WhatsApp">
                     <IconsWhatsApp />
                 </NuxtLink>
             </div>
