@@ -2,11 +2,8 @@
 import type { HomeData } from '~/types/home';
 const config = useRuntimeConfig();
 
-const fetchUrl = `${config.public.strapiUrl}/api/home?pLevel`;
-console.log('Fetch URL:', fetchUrl);
-
 const { data } = await useAsyncData<HomeData>('home', () => 
-  $fetch(fetchUrl)
+  $fetch(`${config.public.strapiUrl}/api/home?pLevel`)
 );
 
 const services = computed(() => data.value?.data?.services ?? []);
@@ -19,8 +16,6 @@ useSeoMeta({
   ogImage: data.value?.data.image?.formats?.large?.url || data.value?.data.image?.url || 'https://example.com/default-image.png',
   twitterCard: 'summary_large_image',
 });
-
-console.log('data', data.value);
 </script>
 
 <template>
