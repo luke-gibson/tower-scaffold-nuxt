@@ -16,6 +16,8 @@ useSeoMeta({
   ogImage: data.value?.data.image?.formats?.large?.url || data.value?.data.image?.url || 'https://example.com/default-image.png',
   twitterCard: 'summary_large_image',
 });
+
+console.log('data', data.value);
 </script>
 
 <template>
