@@ -2,8 +2,11 @@
 import type { HomeData } from '~/types/home';
 const config = useRuntimeConfig();
 
+const fetchUrl = `${config.public.strapiUrl}/api/home?pLevel`;
+console.log('Fetch URL:', fetchUrl);
+
 const { data } = await useAsyncData<HomeData>('home', () => 
-  $fetch(`${config.public.strapiUrl}/api/home?pLevel`)
+  $fetch(fetchUrl)
 );
 
 const services = computed(() => data.value?.data?.services ?? []);
