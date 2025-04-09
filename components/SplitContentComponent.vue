@@ -49,12 +49,12 @@
 
     &__image {
       width: 100%;    
-      margin-bottom: 1rem;  
-      border-radius: 2rem;
+      margin-bottom: 1rem;
 
       img {
         width: 100%;
         height: auto;
+        border-radius: 2rem;
       }
     }    
   }
