@@ -1,22 +1,26 @@
 <script setup lang="ts">
   import type { IImage } from '@/types/image';
-  import type { RichTextBlocks } from '~/types/strapiRichText'
+  import type { RichTextBlocks } from '~/types/strapiRichText';
+  import { useCloudinary } from '~/composables/useCloudinary';
 
-  defineProps<{
+  const props = defineProps<{
     content?: string | RichTextBlocks[];
     image?: IImage;
   }>();
+
+  const transformedUrl = computed(() => useCloudinary(props.image?.url));
 </script>
 
 <template>
   <section class="c-hero">    
     <figure class="c-hero__figure">
-      <NuxtImg 
+      <NuxtPicture 
         class="c-hero__image"
-        :src="image?.url" 
+        :src="transformedUrl"
         :alt="image?.alternativeText" 
         :width="image?.width"
         :height="image?.height"
+        format="avif,webp,jpg"
         />
         <figcaption 
           v-if="Array.isArray(content)"

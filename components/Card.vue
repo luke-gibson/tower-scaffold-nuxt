@@ -1,10 +1,14 @@
 <script setup lang="ts">
     import type { IImage } from '@/types/image';
-    defineProps<{ 
+    import { useCloudinary } from '~/composables/useCloudinary';
+
+    const props = defineProps<{ 
         title: string; 
         slug: string, 
         image: IImage 
     }>();
+
+    const transformedUrl = computed(() => useCloudinary(props.image?.formats.medium?.url));
 </script>
 
 <template>
@@ -13,8 +17,8 @@
     class="c-card"
     :aria-label="`Service Card - ${title}`"
     >    
-    <NuxtImg
-      :src="image?.formats.medium?.url || image?.url"
+    <NuxtPicture
+      :src="transformedUrl || image?.url"
       :alt="image?.alternativeText"
       :width="image?.formats.medium?.width || image?.width"
       :height="image?.formats.medium?.height || image?.height"

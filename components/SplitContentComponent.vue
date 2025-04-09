@@ -1,13 +1,17 @@
 <script setup lang="ts">
   import type { RichTextBlocks } from '~/types/strapiRichText'
   import type { IImage } from '~/types/image'
-  defineProps<{
+  import { useCloudinary } from '~/composables/useCloudinary';
+
+  const props = defineProps<{
     content?: string | RichTextBlocks[];
     image?: IImage;
     invert?: boolean;
     spacingTop?: boolean;
     spacingBottom?: boolean;
   }>();
+
+  const transformedUrl = computed(() => useCloudinary(props.image?.formats.medium?.url));
 </script>
 
 <template>
@@ -16,7 +20,7 @@
       <div class="c-split-content__image">
         <NuxtImg 
         class="c-split-content__image"
-        :src="image?.formats.medium?.url" 
+        :src="transformedUrl" 
         :alt="image?.alternativeText" 
         :width="image?.formats.medium?.width"
         :height="image?.formats.medium?.height"
