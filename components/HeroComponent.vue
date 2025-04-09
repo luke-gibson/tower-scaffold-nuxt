@@ -15,7 +15,7 @@
   <section class="c-hero">    
     <figure class="c-hero__figure">
       <NuxtPicture 
-        class="c-hero__image"
+        class="c-hero__picture"
         :src="transformedUrl"
         :alt="image?.alternativeText" 
         :width="image?.width"
@@ -58,7 +58,7 @@
       }
     }
 
-    &__image {
+    &__picture  {
       height: 100%;
       object-fit: cover;
       object-position: center center;

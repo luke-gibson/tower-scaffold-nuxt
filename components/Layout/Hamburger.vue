@@ -24,7 +24,7 @@ const { toggleNav } = useMobileNav()
 .c-hamburger {
   $root: &;
   position: absolute;
-  top: 2.1rem;
+  top: 1.8rem;
   right: 2rem;
   display: block;
 

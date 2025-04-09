@@ -37,7 +37,7 @@ watch(isMobileNavOpen, (val) => {
         z-index: 10;
         width: 100%;
         padding-top: 1rem;
-        padding-bottom: 1rem;
+        padding-bottom: .5rem;
         transition: background-color 0.3s ease-in-out;
 
         &:hover {
