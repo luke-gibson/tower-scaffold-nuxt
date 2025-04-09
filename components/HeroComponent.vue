@@ -85,8 +85,6 @@
 
   @media (min-width: 768px) {
     .c-hero {
-      height: 100vh;
-
       &__caption {
         margin-top: 0rem;
       }
