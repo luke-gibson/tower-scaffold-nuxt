@@ -1,5 +1,6 @@
 <script setup lang="ts">
   import type { RichTextBlocks } from '~/types/strapiRichText'
+  import type { IImage } from '~/types/image'
   defineProps<{
     content?: RichTextBlocks[];
     image?: IImage;
@@ -15,10 +16,13 @@
       <div class="c-split-content__image">
         <NuxtImg 
         class="c-split-content__image"
-        :src="image.formats.medium?.url" 
-        :alt="image.alternativeText" 
-        :width="image.formats.medium?.width"
-        :height="image.formats.medium?.height"
+        :src="image?.formats.medium?.url" 
+        :alt="image?.alternativeText" 
+        :width="image?.formats.medium?.width"
+        :height="image?.formats.medium?.height"
+        lazy="true"
+        loading="lazy" 
+        format="webp,avif,jpg"
         />
       </div>
       <div class="c-split-content__content">
@@ -28,11 +32,15 @@
   </section>
 </template>
 
-<style scoped lang="scss">
+<style lang="scss">
   .c-split-content {  
     &__content {
       width: 100%;
-      padding-right: 0;      
+      padding-right: 0;
+
+      h1,h2,h3,h4,h5,h6 {
+        color: var(--primary);
+      }
     }
 
     &__image {

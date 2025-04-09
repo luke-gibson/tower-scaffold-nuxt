@@ -17,6 +17,9 @@
         :alt="image.alternativeText" 
         :width="image.width"
         :height="image.height"
+        lazy="true"
+        loading="lazy" 
+        format="webp,avif,jpg"
         />
         <figcaption 
           v-if="content"
@@ -72,6 +75,9 @@
       align-items: center;
       text-align: center;      
       color: var(--white);
+      max-width: 75rem;
+      margin-left: auto;
+      margin-right: auto;
     }
   }
 </style>

@@ -21,7 +21,7 @@ watch(isMobileNavOpen, (val) => {
 <template>
   <header class="c-header">
     <LayoutContainer class="c-header__container">
-      <NuxtLink to="/" class="c-header__logo" atia-label="Tower Scaffolding Logo and link to home page">
+      <NuxtLink to="/" class="c-header__logo" aria-label="Tower Scaffolding Logo and link to home page">
         <IconsLogoIcon />
       </NuxtLink>
       <LayoutNavigation :isOpen="isMobileNavOpen" />

@@ -22,13 +22,9 @@ const getComponent = (item: ContentBlock) => {
 </script>
 
 <template>
-  
-
       <component 
       v-for="item in content" :key="item.id"
         :is="getComponent(item)" 
         v-bind="item" 
-      />
-
-  
+      />  
 </template>
