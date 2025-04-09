@@ -3,8 +3,8 @@
   import type { RichTextBlocks } from '~/types/strapiRichText'
 
   defineProps<{
-    content?: RichTextBlocks[];
-    image: IImage;
+    content?: string | RichTextBlocks[];
+    image?: IImage;
   }>();
 </script>
 
@@ -13,16 +13,13 @@
     <figure class="c-hero__figure">
       <NuxtImg 
         class="c-hero__image"
-        :src="image.url" 
-        :alt="image.alternativeText" 
-        :width="image.width"
-        :height="image.height"
-        lazy="true"
-        loading="lazy" 
-        format="webp,avif,jpg"
+        :src="image?.url" 
+        :alt="image?.alternativeText" 
+        :width="image?.width"
+        :height="image?.height"
         />
         <figcaption 
-          v-if="content"
+          v-if="Array.isArray(content)"
           class="c-hero__caption">
           <RichTextBlocks :data="content"/>
         </figcaption>

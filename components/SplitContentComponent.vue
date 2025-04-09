@@ -2,7 +2,7 @@
   import type { RichTextBlocks } from '~/types/strapiRichText'
   import type { IImage } from '~/types/image'
   defineProps<{
-    content?: RichTextBlocks[];
+    content?: string | RichTextBlocks[];
     image?: IImage;
     invert?: boolean;
     spacingTop?: boolean;
@@ -26,7 +26,7 @@
         />
       </div>
       <div class="c-split-content__content">
-        <RichTextBlocks v-if="content" :data="content"/>
+        <RichTextBlocks v-if="Array.isArray(content)" :data="content"/>
       </div>     
     </LayoutContainer>
   </section>

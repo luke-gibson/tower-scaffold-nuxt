@@ -1,7 +1,7 @@
 <script setup lang="ts">
   import type { RichTextBlocks } from '~/types/strapiRichText'
   defineProps<{
-    content?: RichTextBlocks[];
+    content?: string | RichTextBlocks[];
     highlight?: boolean;
     spacingTop?: boolean;
     spacingBottom?: boolean;
@@ -12,7 +12,7 @@
   <section :class="['c-text', { 'c-text--highlight': highlight }, { 'o-section--top': spacingTop }, { 'o-section--bottom': spacingBottom }]">
     <LayoutContainer>    
       <div class="c-text__content">
-        <RichTextBlocks v-if="content" :data="content"/>
+        <RichTextBlocks v-if="Array.isArray(content)" :data="content"/>
       </div>
     </LayoutContainer>
   </section>

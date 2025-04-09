@@ -1,6 +1,7 @@
 <script lang="ts" setup>
+import type { ServiceData } from '~/types/service';
 defineProps<{
-  services: Service[];
+  services: ServiceData[];
 }>();
 </script>
 
