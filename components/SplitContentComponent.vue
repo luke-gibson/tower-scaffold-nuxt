@@ -18,15 +18,15 @@
   <section :class="['c-split-content', { 'c-split-content--invert': invert }, { 'o-section--top': spacingTop }, { 'o-section--bottom': spacingBottom }]">
     <LayoutContainer class="c-split-content__container">    
       <div class="c-split-content__image">
-        <NuxtImg 
-        class="c-split-content__image"
-        :src="transformedUrl" 
-        :alt="image?.alternativeText" 
-        :width="image?.formats.medium?.width"
-        :height="image?.formats.medium?.height"
-        lazy="true"
-        loading="lazy" 
-        format="webp,avif,jpg"
+        <NuxtPicture 
+          class="c-split-content__image"
+          :src="transformedUrl" 
+          :alt="image?.alternativeText" 
+          :width="image?.formats.medium?.width"
+          :height="image?.formats.medium?.height"
+          lazy="true"
+          loading="lazy" 
+          format="webp,avif,jpg"
         />
       </div>
       <div class="c-split-content__content">
