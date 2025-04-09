@@ -6,7 +6,8 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
     '@nuxt/image',
     '@nuxt/fonts',
-    '@nuxtjs/strapi'
+    '@nuxtjs/strapi',
+    '@nuxtjs/robots'
   ],
   runtimeConfig: {
     public: {
@@ -21,6 +22,7 @@ export default defineNuxtConfig({
     cookie: {},
     cookieName: 'strapi_jwt'
   },
+  site: { indexable: false },
   app: {
     head: {
       htmlAttrs: {
