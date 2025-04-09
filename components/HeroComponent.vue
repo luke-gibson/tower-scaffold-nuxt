@@ -79,6 +79,17 @@
       max-width: 75rem;
       margin-left: auto;
       margin-right: auto;
+      margin-top: 7rem;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .c-hero {
+      height: 100vh;
+
+      &__caption {
+        margin-top: 0rem;
+      }
     }
   }
 </style>

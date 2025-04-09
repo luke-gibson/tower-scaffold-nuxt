@@ -1,5 +1,6 @@
 import type { IImage } from './image';
 import type { ContentBlock } from './contentBlock';
+import type { ServiceData } from './service';
 
 
 export interface Service {
@@ -16,6 +17,6 @@ export interface HomeData {
     description?: string;
     image: IImage;
     content: ContentBlock[];
-    services?: Service[];
+    services?: ServiceData[];
   };
 }
