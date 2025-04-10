@@ -1,4 +1,5 @@
 <script setup>
+    const currentYear = new Date().getFullYear()
 </script>
 
 <template>
@@ -8,21 +9,15 @@
                 <h2>Get in touch</h2>
                 <div>Mobile: 
                 <NuxtLink
-                    to="tel:123456789"
+                    to="tel:07496741580"
                     class="c-footer__link"
-                    >7777 777 777</NuxtLink>
-                </div>
-                <div>Portsmouth: 
-                <NuxtLink
-                    to="tel:123456789"
-                    class="c-footer__link"
-                    >02392 123 456</NuxtLink>
+                    >07496 741 580</NuxtLink>
                 </div>
                 <div>Southampton: 
                 <NuxtLink
-                    to="tel:123456789"
+                    to="tel:02380308887 "
                     class="c-footer__link"
-                    >02380 123 456</NuxtLink>
+                    >02380 308 887 </NuxtLink>
                 </div>
                 <div>Email: 
                 <NuxtLink
@@ -31,16 +26,8 @@
                     >info@towerscaffold-netting.co.uk</NuxtLink>
                 </div>
             </div>
-            <div>
-                <NuxtLink to="/" class="c-footer__social" aria-label="Link to Facebook">
-                    <IconsFacebook />
-                </NuxtLink>
-                <NuxtLink to="/" class="c-footer__social" aria-label="Link to Instagram">
-                    <IconsInstagram />
-                </NuxtLink>
-                <NuxtLink to="/" class="c-footer__social" aria-label="Link to Open WhatsApp">
-                    <IconsWhatsApp />
-                </NuxtLink>
+            <div class="c-footer__social">
+                <small> &copy; Tower Scaffold + Netting | All rights reserved {{ currentYear }} </small>
             </div>
         </LayoutContainer>
     </footer>
