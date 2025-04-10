@@ -4,6 +4,14 @@
 
 <template>
     <footer class="c-footer">
+        <NuxtPicture 
+            class="c-footer__picture"
+            src="https://res.cloudinary.com/dwkcyxb9r/image/upload/v1744058904/medium_tower_scaffolding_home_banner_388334a539.jpg"
+            alt="building with scaddolding surrounding the entire building" 
+            width="500"
+            height="375"
+            format="avif,webp,jpg"
+        />
         <LayoutContainer class="c-footer__wrap">
             <div class="c-footer__contact">
                 <h2>Get in touch</h2>
@@ -39,6 +47,23 @@
         padding-top: var(--component-spacing);
         padding-bottom: var(--component-spacing);
         color: var(--white);
+        position: relative;
+
+        &__picture {
+            position: absolute;
+            right:0;
+            top: 0;
+            bottom: 0;
+            overflow: hidden;
+            width: 50%;
+
+            &::before {
+                content: "";
+                position: absolute;
+                inset: 0;
+                background: linear-gradient(to right, rgba(#001489, 1), rgba(#001489, 0.6));
+            }
+        }
 
         a {
             color: var(--white);
@@ -55,6 +80,7 @@
             justify-content: space-between;
             align-items: flex-end;
             flex-wrap: wrap;
+            position: relative;
         }
 
         &__social {
