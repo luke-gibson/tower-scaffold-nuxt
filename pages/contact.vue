@@ -1,10 +1,20 @@
 <script setup lang="ts">
   import type { ContactData } from '~/types/contact';
   const config = useRuntimeConfig();
+  const route = useRoute();
 
   const { data } = await useAsyncData<ContactData>('contact', () => 
     $fetch(`${config.public.strapiUrl}/api/contact?pLevel`)
   );
+
+  useHead({
+    link: [
+      {
+        rel: 'canonical',
+        href: `${config.public.siteUrl}${route.fullPath}`,
+      },
+    ],
+  });
 
   useSeoMeta({
     title: data.value?.data.title || 'Default Title',

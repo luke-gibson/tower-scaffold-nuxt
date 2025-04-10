@@ -1,12 +1,22 @@
 <script setup lang="ts">
 import type { ServicesData } from '~/types/services';
 const config = useRuntimeConfig();
+const route = useRoute();
 
 const { data } = await useAsyncData<ServicesData>('services', () => 
   $fetch(`${config.public.strapiUrl}/api/services-page?pLevel`)
 );
 
 const services = computed(() => data.value?.data?.services ?? []);
+
+useHead({
+  link: [
+    {
+      rel: 'canonical',
+      href: `${config.public.siteUrl}${route.fullPath}`,
+    },
+  ],
+});
 
 useSeoMeta({
   title: data.value?.data.title || 'Default Title',
