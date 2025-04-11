@@ -12,6 +12,15 @@ const { data: service } = await useAsyncData<{ data: ServiceData[] }>(`service-$
 
 const serviceData = computed(() => service.value?.data?.[0] || null);
 
+useHead({
+  link: [
+    {
+      rel: 'canonical',
+      href: `${config.public.siteUrl}${route.fullPath}`,
+    },
+  ],
+})
+
 useSeoMeta({
   title: serviceData.value?.title || 'Default Title',
   ogTitle: serviceData.value?.title || 'Default Title',

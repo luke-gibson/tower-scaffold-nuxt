@@ -12,7 +12,6 @@ const { toggleNav } = useMobileNav()
     :class="{ 'is-active': isActive }"
     @click="toggleNav"
     data-hamburger
-    aria-label="Toggle mobile navigation"
   >
     <span class="c-hamburger__line"></span>
     <span class="c-hamburger__line"></span>
