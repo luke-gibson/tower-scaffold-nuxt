@@ -22,7 +22,7 @@ export default defineNuxtConfig({
     cookie: {},
     cookieName: 'strapi_jwt'
   },
-  site: { indexable: false },
+  site: { indexable: true },
   app: {
     head: {
       htmlAttrs: {
