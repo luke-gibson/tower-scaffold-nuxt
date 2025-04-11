@@ -31,8 +31,11 @@
                 <NuxtLink
                     to="mailto:info@towerscaffold-netting.co.uk"
                     class="c-footer__link"
-                    >info@towerscaffold-netting.co.uk</NuxtLink>
+                    >info@towerscaffold-netting.co.uk test</NuxtLink>
                 </div>
+                <small> 
+                    <a href="#" onClick="UC_UI.showSecondLayer();">Privacy Settings</a>
+                </small>
             </div>
             <div class="c-footer__social">
                 <small> &copy; Tower Scaffold + Netting | All rights reserved {{ currentYear }} </small>

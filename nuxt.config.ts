@@ -32,7 +32,20 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
         { rel: 'icon', type: 'image/png', href: '/favicon.png' },
         { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' },
-      ]
+      ],
+      script: [
+        {
+          src: 'https://web.cmp.usercentrics.eu/modules/autoblocker.js',
+          async: true,
+        },
+        {
+          id: 'usercentrics-cmp',
+          src: 'https://web.cmp.usercentrics.eu/ui/loader.js',
+          async: true,
+          tagPosition: 'head',
+          'data-settings-id': 'XXQBxqLeWCYeGV', // 🔁 Replace with your ID
+        } as any // 👈 TypeScript hack to allow `data-*` attributes
+      ],
     }
   }
-})
+});
