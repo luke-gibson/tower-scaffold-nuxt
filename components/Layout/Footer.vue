@@ -31,7 +31,7 @@
                 <NuxtLink
                     to="mailto:info@towerscaffold-netting.co.uk"
                     class="c-footer__link"
-                    >info@towerscaffold-netting.co.uk test</NuxtLink>
+                    >info@towerscaffold-netting.co.uk</NuxtLink>
                 </div>
                 <small> 
                     <a href="#" onClick="UC_UI.showSecondLayer();">Privacy Settings</a>
