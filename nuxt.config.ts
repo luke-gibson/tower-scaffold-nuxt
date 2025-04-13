@@ -6,8 +6,13 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxt/fonts',
     '@nuxtjs/strapi',
-    '@nuxtjs/robots'
+    '@nuxtjs/robots',
+    '@weareheavy/nuxt-cookie-consent',
   ],
+  cookieConsent: {
+    provider: 'cookiescript',
+    id: '6b8a239ba0a00100afdd0353f2659e03'
+  },
   runtimeConfig: {
     public: {
       strapiUrl: process.env.STRAPI_URL,
