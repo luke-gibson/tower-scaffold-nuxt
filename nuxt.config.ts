@@ -10,8 +10,8 @@ export default defineNuxtConfig({
     '@weareheavy/nuxt-cookie-consent',
   ],
   cookieConsent: {
-    provider: 'cookiebot',
-    cbid: 'XXQBxqLeWCYeGV'
+    provider: 'cookiescript',
+    id: '6b8a239ba0a00100afdd0353f2659e03'
   },
   runtimeConfig: {
     public: {
