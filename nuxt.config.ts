@@ -7,7 +7,6 @@ export default defineNuxtConfig({
     '@nuxt/fonts',
     '@nuxtjs/strapi',
     '@nuxtjs/robots',
-    '@weareheavy/nuxt-cookie-consent',
   ],
   runtimeConfig: {
     public: {
