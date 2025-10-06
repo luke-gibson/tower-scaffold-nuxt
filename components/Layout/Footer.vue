@@ -35,7 +35,7 @@
                 </div>
             </div>
             <div class="c-footer__social">
-                <small> &copy; Tower Scaffold + Netting | All rights reserved {{ currentYear }} </small>
+                <small> &copy; Tower Scaffold + Temporary Roof | All rights reserved {{ currentYear }} </small>
             </div>
         </LayoutContainer>
     </footer>
