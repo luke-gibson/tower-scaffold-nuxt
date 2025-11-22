@@ -12,20 +12,26 @@
             height="375"
             format="avif,webp,jpg"
         />
-        <LayoutContainer class="c-footer__wrap">
+       <LayoutContainer class="c-footer__wrap">
             <div class="c-footer__contact">
                 <h2>Get in touch</h2>
                 <div>Mobile: 
                 <NuxtLink
-                    to="tel:07496741580"
+                    to="tel:07976392257"
                     class="c-footer__link"
-                    >07496 741 580</NuxtLink>
+                    >07976 392257</NuxtLink>
                 </div>
                 <div>Southampton: 
                 <NuxtLink
-                    to="tel:02380308887 "
+                    to="tel:02380308887"
                     class="c-footer__link"
                     >02380 308 887 </NuxtLink>
+                </div>
+                <div>Portsmouth: 
+                <NuxtLink
+                    to="tel:02392261007"
+                    class="c-footer__link"
+                    >02392 261007</NuxtLink>
                 </div>
                 <div>Email: 
                 <NuxtLink
@@ -35,7 +41,7 @@
                 </div>
             </div>
             <div class="c-footer__social">
-                <small> &copy; Tower Scaffold + Netting | All rights reserved {{ currentYear }} </small>
+                <small> &copy; Tower Scaffold + Temporary Roof | All rights reserved {{ currentYear }} </small>
             </div>
         </LayoutContainer>
     </footer>
