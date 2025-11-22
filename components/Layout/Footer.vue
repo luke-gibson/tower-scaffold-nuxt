@@ -6,7 +6,7 @@
     <footer class="c-footer">
         <NuxtPicture 
             class="c-footer__picture"
-            src="https://res.cloudinary.com/dwkcyxb9r/image/upload/v1744058904/medium_tower_scaffolding_home_banner_388334a539.jpg"
+            src="https://safe-broccoli-94775bb690.media.strapiapp.com/tower_scaffolding_home_banner_388334a539_39de340232.webp"
             alt="building with scaddolding surrounding the entire building" 
             width="500"
             height="375"
