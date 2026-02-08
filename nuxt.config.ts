@@ -54,7 +54,7 @@ export default defineNuxtConfig({
   scripts: {
     registry: {
       googleTagManager: {
-        id: 'GTM-WDHC4X9'
+        id: 'GTM-WDHC4X9J'
       }
     }
   },
