@@ -6,6 +6,8 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxt/fonts',
     '@nuxtjs/strapi',
+    '@nuxt/scripts',
+    '@nuxtjs/sitemap',
     '@nuxtjs/robots',
   ],
   runtimeConfig: {
@@ -22,7 +24,14 @@ export default defineNuxtConfig({
     cookie: {},
     cookieName: 'strapi_jwt'
   },
-  site: { indexable: true },
+  site: { 
+    url: 'https://towerscaffold-netting.co.uk',
+    name: 'Tower Scaffold Netting',
+    indexable: true 
+  },
+  robots: {
+    sitemap: 'https://towerscaffold-netting.co.uk/sitemap.xml'
+  },
   app: {
     head: {
       htmlAttrs: {
@@ -33,6 +42,20 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/png', href: '/favicon.png' },
         { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' },
       ],
+      meta: [
+        {
+          name: 'google-site-verification',
+          content: 'JnW-K5-fxR2V0qJ0GhoqJyC6nrLeSmwJWlDvJFKpbDM'
+        }
+      ]
+    }
+  },
+  // @ts-ignore
+  scripts: {
+    registry: {
+      googleTagManager: {
+        id: 'GTM-WDHC4X9'
+      }
     }
   },
 });
