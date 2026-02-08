@@ -6,12 +6,14 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxt/fonts',
     '@nuxtjs/strapi',
+    '@nuxt/scripts',
+    '@nuxtjs/sitemap',
     '@nuxtjs/robots',
   ],
   runtimeConfig: {
     public: {
       strapiUrl: process.env.STRAPI_URL,
-      siteUrl: 'https://towerscaffold-netting.co.uk',
+      siteUrl: 'https://towerscaffold-temporaryroof.co.uk',
     }
   },
   strapi: {
@@ -22,7 +24,14 @@ export default defineNuxtConfig({
     cookie: {},
     cookieName: 'strapi_jwt'
   },
-  site: { indexable: true },
+  site: { 
+    url: 'https://towerscaffold-temporaryroof.co.uk',
+    name: 'Tower Scaffold and Temporary Roofing',
+    indexable: true 
+  },
+  robots: {
+    sitemap: 'https://towerscaffold-temporaryroof.co.uk/sitemap.xml'
+  },
   app: {
     head: {
       htmlAttrs: {
@@ -33,6 +42,19 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/png', href: '/favicon.png' },
         { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' },
       ],
+      meta: [
+        {
+          name: 'google-site-verification',
+          content: 'JnW-K5-fxR2V0qJ0GhoqJyC6nrLeSmwJWlDvJFKpbDM'
+        }
+      ]
+    }
+  },
+  scripts: {
+    registry: {
+      googleTagManager: {
+        id: 'GTM-W8BGKLMV'
+      }
     }
   },
 });
