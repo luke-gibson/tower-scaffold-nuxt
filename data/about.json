@@ -1,0 +1,218 @@
+{
+  "data": {
+    "id": 4,
+    "documentId": "yzg4edmn5ts7i6zz5xklwfxb",
+    "name": "about",
+    "slug": "about",
+    "title": "About Tower Scaffolding + Temporary Roofs | Trusted Portsmouth Scaffolders",
+    "description": "Learn about Tower Scaffolding + Temporary Roofs, Portsmouth’s trusted scaffolding and temporary roof specialists. Decades of experience ensuring safety and efficiency.",
+    "createdAt": "2025-10-06T18:44:14.580Z",
+    "updatedAt": "2025-11-22T17:19:42.827Z",
+    "publishedAt": "2025-11-22T17:19:42.915Z",
+    "image": {
+      "id": 19,
+      "documentId": "ou2v66bmnw29u07xk2juin7m",
+      "name": "Screenshot 2025-09-29 at 8.44.41 pm.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 2540,
+      "height": 1852,
+      "formats": {
+        "large": {
+          "ext": ".jpg",
+          "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/large_Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd.jpg",
+          "hash": "large_Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd",
+          "mime": "image/jpeg",
+          "name": "large_Screenshot 2025-09-29 at 8.44.41 pm.jpg",
+          "path": null,
+          "size": 125.89,
+          "width": 1000,
+          "height": 729,
+          "sizeInBytes": 125885
+        },
+        "small": {
+          "ext": ".jpg",
+          "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/small_Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd.jpg",
+          "hash": "small_Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd",
+          "mime": "image/jpeg",
+          "name": "small_Screenshot 2025-09-29 at 8.44.41 pm.jpg",
+          "path": null,
+          "size": 43.56,
+          "width": 500,
+          "height": 365,
+          "sizeInBytes": 43558
+        },
+        "medium": {
+          "ext": ".jpg",
+          "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/medium_Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd.jpg",
+          "hash": "medium_Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd",
+          "mime": "image/jpeg",
+          "name": "medium_Screenshot 2025-09-29 at 8.44.41 pm.jpg",
+          "path": null,
+          "size": 82.64,
+          "width": 750,
+          "height": 547,
+          "sizeInBytes": 82641
+        },
+        "thumbnail": {
+          "ext": ".jpg",
+          "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/thumbnail_Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd.jpg",
+          "hash": "thumbnail_Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd",
+          "mime": "image/jpeg",
+          "name": "thumbnail_Screenshot 2025-09-29 at 8.44.41 pm.jpg",
+          "path": null,
+          "size": 10.44,
+          "width": 214,
+          "height": 156,
+          "sizeInBytes": 10439
+        }
+      },
+      "hash": "Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 334.85,
+      "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd.jpg",
+      "previewUrl": null,
+      "provider": "strapi-provider-upload-strapi-cloud",
+      "provider_metadata": null,
+      "createdAt": "2025-09-29T19:55:17.668Z",
+      "updatedAt": "2025-09-29T19:55:17.668Z",
+      "publishedAt": "2025-09-29T19:55:17.668Z"
+    },
+    "content": [
+      {
+        "__component": "content.hero",
+        "id": 30,
+        "content": [
+          {
+            "type": "heading",
+            "level": 1,
+            "children": [
+              {
+                "text": "About Us And Our Company",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Scaffolding + Temporary Roofs provides expert scaffolding and temporary roofs solutions in Portsmouth.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "image": {
+          "id": 19,
+          "documentId": "ou2v66bmnw29u07xk2juin7m",
+          "name": "Screenshot 2025-09-29 at 8.44.41 pm.jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 2540,
+          "height": 1852,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/large_Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd.jpg",
+              "hash": "large_Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd",
+              "mime": "image/jpeg",
+              "name": "large_Screenshot 2025-09-29 at 8.44.41 pm.jpg",
+              "path": null,
+              "size": 125.89,
+              "width": 1000,
+              "height": 729,
+              "sizeInBytes": 125885
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/small_Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd.jpg",
+              "hash": "small_Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd",
+              "mime": "image/jpeg",
+              "name": "small_Screenshot 2025-09-29 at 8.44.41 pm.jpg",
+              "path": null,
+              "size": 43.56,
+              "width": 500,
+              "height": 365,
+              "sizeInBytes": 43558
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/medium_Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd.jpg",
+              "hash": "medium_Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd",
+              "mime": "image/jpeg",
+              "name": "medium_Screenshot 2025-09-29 at 8.44.41 pm.jpg",
+              "path": null,
+              "size": 82.64,
+              "width": 750,
+              "height": 547,
+              "sizeInBytes": 82641
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/thumbnail_Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd.jpg",
+              "hash": "thumbnail_Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd",
+              "mime": "image/jpeg",
+              "name": "thumbnail_Screenshot 2025-09-29 at 8.44.41 pm.jpg",
+              "path": null,
+              "size": 10.44,
+              "width": 214,
+              "height": 156,
+              "sizeInBytes": 10439
+            }
+          },
+          "hash": "Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 334.85,
+          "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/Screenshot_2025_09_29_at_8_44_41_pm_41d0ff15fd.jpg",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-09-29T19:55:17.668Z",
+          "updatedAt": "2025-09-29T19:55:17.668Z",
+          "publishedAt": "2025-09-29T19:55:17.668Z"
+        }
+      },
+      {
+        "__component": "content.text",
+        "id": 27,
+        "content": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "text": "OUR COMPANY",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Temporary Roofing has been established as a trusted sister company to Tower Scaffold + Temporary Roof, bringing over 20 years of combined experience in the scaffolding and access industry. We’ve built a solid reputation for delivering high-quality temporary roofing solutions at fair and competitive prices. Our services are tailored for homeowners, self-builders, and construction companies across Hampshire, Sussex, and Surrey.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "We specialise in designing and installing temporary roofing systems that offer reliable weather protection and site safety throughout your project. Our professional and experienced team provide a complete service from planning to installation, including a pre-tender consultation to understand your project requirements. You’ll receive detailed drawings and safety documentation, ensuring every aspect of your temporary roofing solution meets the highest standards of quality and compliance.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "highlight": false,
+        "spacingTop": true,
+        "spacingBottom": true
+      }
+    ]
+  },
+  "meta": {}
+}

@@ -1,0 +1,978 @@
+{
+  "data": [
+    {
+      "id": 22,
+      "documentId": "g4b9n0hdbpnsx2w3j31jfip1",
+      "name": "System temporary roofs",
+      "slug": "system-temporary-roofs",
+      "title": "System Temporary Roof Scaffolding",
+      "description": "System temporary roof scaffolding provides modular, weatherproof protection for construction, roofing, and restoration projects. Designed for flexibility and efficiency across all site conditions.",
+      "createdAt": "2025-10-06T18:55:50.076Z",
+      "updatedAt": "2025-10-21T20:43:03.196Z",
+      "publishedAt": "2025-10-21T20:43:03.508Z",
+      "image": {
+        "id": 5,
+        "documentId": "uiepui6vsf975qhpfjl2ge1y",
+        "name": "Screenshot 2025-09-29 at 8.44.32 pm.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2710,
+        "height": 1736,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/large_Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c.png",
+            "hash": "large_Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c",
+            "mime": "image/png",
+            "name": "large_Screenshot 2025-09-29 at 8.44.32 pm.png",
+            "path": null,
+            "size": 507.29,
+            "width": 1000,
+            "height": 641,
+            "sizeInBytes": 507288
+          },
+          "small": {
+            "ext": ".png",
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/small_Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c.png",
+            "hash": "small_Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c",
+            "mime": "image/png",
+            "name": "small_Screenshot 2025-09-29 at 8.44.32 pm.png",
+            "path": null,
+            "size": 144.42,
+            "width": 500,
+            "height": 320,
+            "sizeInBytes": 144418
+          },
+          "medium": {
+            "ext": ".png",
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/medium_Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c.png",
+            "hash": "medium_Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c",
+            "mime": "image/png",
+            "name": "medium_Screenshot 2025-09-29 at 8.44.32 pm.png",
+            "path": null,
+            "size": 301.33,
+            "width": 750,
+            "height": 480,
+            "sizeInBytes": 301333
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/thumbnail_Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c.png",
+            "hash": "thumbnail_Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c",
+            "mime": "image/png",
+            "name": "thumbnail_Screenshot 2025-09-29 at 8.44.32 pm.png",
+            "path": null,
+            "size": 40.04,
+            "width": 244,
+            "height": 156,
+            "sizeInBytes": 40041
+          }
+        },
+        "hash": "Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 737.49,
+        "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2025-09-29T19:51:23.927Z",
+        "updatedAt": "2025-09-29T19:51:23.927Z",
+        "publishedAt": "2025-09-29T19:51:23.928Z"
+      },
+      "content": [
+        {
+          "__component": "content.hero",
+          "id": 26,
+          "content": [
+            {
+              "type": "heading",
+              "level": 1,
+              "children": [
+                {
+                  "text": "System Temporary Roof Scaffolding",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "System temporary roof scaffolding provides modular, weatherproof protection for construction, roofing, and restoration projects. ",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "image": {
+            "id": 5,
+            "documentId": "uiepui6vsf975qhpfjl2ge1y",
+            "name": "Screenshot 2025-09-29 at 8.44.32 pm.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 2710,
+            "height": 1736,
+            "formats": {
+              "large": {
+                "ext": ".png",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/large_Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c.png",
+                "hash": "large_Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c",
+                "mime": "image/png",
+                "name": "large_Screenshot 2025-09-29 at 8.44.32 pm.png",
+                "path": null,
+                "size": 507.29,
+                "width": 1000,
+                "height": 641,
+                "sizeInBytes": 507288
+              },
+              "small": {
+                "ext": ".png",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/small_Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c.png",
+                "hash": "small_Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c",
+                "mime": "image/png",
+                "name": "small_Screenshot 2025-09-29 at 8.44.32 pm.png",
+                "path": null,
+                "size": 144.42,
+                "width": 500,
+                "height": 320,
+                "sizeInBytes": 144418
+              },
+              "medium": {
+                "ext": ".png",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/medium_Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c.png",
+                "hash": "medium_Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c",
+                "mime": "image/png",
+                "name": "medium_Screenshot 2025-09-29 at 8.44.32 pm.png",
+                "path": null,
+                "size": 301.33,
+                "width": 750,
+                "height": 480,
+                "sizeInBytes": 301333
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/thumbnail_Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c.png",
+                "hash": "thumbnail_Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c",
+                "mime": "image/png",
+                "name": "thumbnail_Screenshot 2025-09-29 at 8.44.32 pm.png",
+                "path": null,
+                "size": 40.04,
+                "width": 244,
+                "height": 156,
+                "sizeInBytes": 40041
+              }
+            },
+            "hash": "Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 737.49,
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/Screenshot_2025_09_29_at_8_44_32_pm_8678188d0c.png",
+            "previewUrl": null,
+            "provider": "strapi-provider-upload-strapi-cloud",
+            "provider_metadata": null,
+            "createdAt": "2025-09-29T19:51:23.927Z",
+            "updatedAt": "2025-09-29T19:51:23.927Z",
+            "publishedAt": "2025-09-29T19:51:23.928Z"
+          }
+        },
+        {
+          "__component": "content.text",
+          "id": 23,
+          "content": [
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "System Temporary Roof Scaffolding",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "System temporary roof scaffolding is a modern, modular solution designed to protect construction sites from rain, wind, and other environmental elements. Using prefabricated components, these systems are quick to assemble, adaptable to a wide range of structures, and highly effective for maintaining productivity in all weather conditions.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A system roof structure typically combines lightweight aluminium beams with a weather-resistant covering such as shrink wrap or corrugated sheeting. This creates a strong, watertight enclosure that allows work to continue safely and efficiently throughout roofing, restoration, or refurbishment projects.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "System temporary roofs are engineered for flexibility, making them suitable for projects of all sizes and complexities. They are ideal for sites where time, safety, and reliability are essential, offering a professional and cost-effective solution for long-term weather protection across the UK.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "highlight": false,
+          "spacingTop": true,
+          "spacingBottom": true
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "documentId": "oaesyz8q6jdhbdbwecwko0kl",
+      "name": "Traditional temporary roofs",
+      "slug": "traditional-temporary-roofs",
+      "title": "Traditional Temporary Roof Scaffolding",
+      "description": "Traditional temporary roof scaffolding provides reliable weather protection for construction and restoration projects. Our tin hat systems allow work to continue safely and efficiently in all weather conditions.",
+      "createdAt": "2025-10-06T18:55:20.641Z",
+      "updatedAt": "2025-10-21T20:43:36.695Z",
+      "publishedAt": "2025-10-21T20:43:36.920Z",
+      "image": {
+        "id": 20,
+        "documentId": "rm16agqszmlgmryj3va06nk7",
+        "name": "Screenshot 2025-09-29 at 8.45.16 pm.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2660,
+        "height": 1862,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/large_Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5.jpg",
+            "hash": "large_Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5",
+            "mime": "image/jpeg",
+            "name": "large_Screenshot 2025-09-29 at 8.45.16 pm.jpg",
+            "path": null,
+            "size": 107.93,
+            "width": 1000,
+            "height": 700,
+            "sizeInBytes": 107927
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/small_Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5.jpg",
+            "hash": "small_Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5",
+            "mime": "image/jpeg",
+            "name": "small_Screenshot 2025-09-29 at 8.45.16 pm.jpg",
+            "path": null,
+            "size": 35.45,
+            "width": 500,
+            "height": 350,
+            "sizeInBytes": 35448
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/medium_Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5.jpg",
+            "hash": "medium_Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5",
+            "mime": "image/jpeg",
+            "name": "medium_Screenshot 2025-09-29 at 8.45.16 pm.jpg",
+            "path": null,
+            "size": 69.55,
+            "width": 750,
+            "height": 525,
+            "sizeInBytes": 69545
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/thumbnail_Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5.jpg",
+            "hash": "thumbnail_Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Screenshot 2025-09-29 at 8.45.16 pm.jpg",
+            "path": null,
+            "size": 8.83,
+            "width": 223,
+            "height": 156,
+            "sizeInBytes": 8827
+          }
+        },
+        "hash": "Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 313.54,
+        "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2025-09-29T19:55:18.027Z",
+        "updatedAt": "2025-09-29T19:55:18.027Z",
+        "publishedAt": "2025-09-29T19:55:18.028Z"
+      },
+      "content": [
+        {
+          "__component": "content.hero",
+          "id": 27,
+          "content": [
+            {
+              "type": "heading",
+              "level": 1,
+              "children": [
+                {
+                  "text": "Traditional Temporary Roof Scaffolding",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Traditional temporary roof scaffolding provides reliable weather protection for construction and restoration projects.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "image": {
+            "id": 20,
+            "documentId": "rm16agqszmlgmryj3va06nk7",
+            "name": "Screenshot 2025-09-29 at 8.45.16 pm.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 2660,
+            "height": 1862,
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/large_Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5.jpg",
+                "hash": "large_Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5",
+                "mime": "image/jpeg",
+                "name": "large_Screenshot 2025-09-29 at 8.45.16 pm.jpg",
+                "path": null,
+                "size": 107.93,
+                "width": 1000,
+                "height": 700,
+                "sizeInBytes": 107927
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/small_Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5.jpg",
+                "hash": "small_Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5",
+                "mime": "image/jpeg",
+                "name": "small_Screenshot 2025-09-29 at 8.45.16 pm.jpg",
+                "path": null,
+                "size": 35.45,
+                "width": 500,
+                "height": 350,
+                "sizeInBytes": 35448
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/medium_Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5.jpg",
+                "hash": "medium_Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5",
+                "mime": "image/jpeg",
+                "name": "medium_Screenshot 2025-09-29 at 8.45.16 pm.jpg",
+                "path": null,
+                "size": 69.55,
+                "width": 750,
+                "height": 525,
+                "sizeInBytes": 69545
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/thumbnail_Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5.jpg",
+                "hash": "thumbnail_Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5",
+                "mime": "image/jpeg",
+                "name": "thumbnail_Screenshot 2025-09-29 at 8.45.16 pm.jpg",
+                "path": null,
+                "size": 8.83,
+                "width": 223,
+                "height": 156,
+                "sizeInBytes": 8827
+              }
+            },
+            "hash": "Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 313.54,
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/Screenshot_2025_09_29_at_8_45_16_pm_de38b861e5.jpg",
+            "previewUrl": null,
+            "provider": "strapi-provider-upload-strapi-cloud",
+            "provider_metadata": null,
+            "createdAt": "2025-09-29T19:55:18.027Z",
+            "updatedAt": "2025-09-29T19:55:18.027Z",
+            "publishedAt": "2025-09-29T19:55:18.028Z"
+          }
+        },
+        {
+          "__component": "content.text",
+          "id": 24,
+          "content": [
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Traditional Temporary Roof Scaffolding",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Traditional temporary roof scaffolding is a proven method of providing weather protection on construction, refurbishment, and restoration projects. This system uses a robust framework of scaffold tubes and beams to support corrugated iron sheets, often referred to as “tin hats,” which create a secure and weatherproof covering over the structure.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "These systems are designed and erected around the building, forming a complete scaffold that is then overlaid with tightly fixed metal sheets. The result is a durable, water-resistant enclosure that shields workers, materials, and ongoing works from the elements, allowing construction to continue without delay.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Traditional temporary roofing remains one of the most effective and reliable ways to maintain productivity and site safety during periods of bad weather. It is particularly suited for projects requiring long-term protection and has been trusted across the UK for decades for its strength, stability, and dependability.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "highlight": false,
+          "spacingTop": true,
+          "spacingBottom": true
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "documentId": "i7ovvt6mq2gpmvqdqp63srfn",
+      "name": "shrink-wrap",
+      "slug": "shrink-wrap",
+      "title": "Shrink Wrap Temporary Roof",
+      "description": "Scaffold shrink wrap is a strong, high-quality polythene sheeting that is heat-sealed around scaffolding to form a tight, weatherproof barrier.",
+      "createdAt": "2025-10-06T18:57:16.533Z",
+      "updatedAt": "2025-10-21T20:26:35.607Z",
+      "publishedAt": "2025-10-21T20:26:35.807Z",
+      "image": {
+        "id": 21,
+        "documentId": "amhtasbbydthoiult0tekoq4",
+        "name": "shrinkWrap.jpg",
+        "alternativeText": "Shrink Wrap Property",
+        "caption": null,
+        "width": 1920,
+        "height": 1240,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/large_shrink_Wrap_3dc5b0f947.jpg",
+            "hash": "large_shrink_Wrap_3dc5b0f947",
+            "mime": "image/jpeg",
+            "name": "large_shrinkWrap.jpg",
+            "path": null,
+            "size": 62.85,
+            "width": 1000,
+            "height": 646,
+            "sizeInBytes": 62845
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/small_shrink_Wrap_3dc5b0f947.jpg",
+            "hash": "small_shrink_Wrap_3dc5b0f947",
+            "mime": "image/jpeg",
+            "name": "small_shrinkWrap.jpg",
+            "path": null,
+            "size": 24.72,
+            "width": 500,
+            "height": 323,
+            "sizeInBytes": 24722
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/medium_shrink_Wrap_3dc5b0f947.jpg",
+            "hash": "medium_shrink_Wrap_3dc5b0f947",
+            "mime": "image/jpeg",
+            "name": "medium_shrinkWrap.jpg",
+            "path": null,
+            "size": 42.97,
+            "width": 750,
+            "height": 484,
+            "sizeInBytes": 42966
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/thumbnail_shrink_Wrap_3dc5b0f947.jpg",
+            "hash": "thumbnail_shrink_Wrap_3dc5b0f947",
+            "mime": "image/jpeg",
+            "name": "thumbnail_shrinkWrap.jpg",
+            "path": null,
+            "size": 8.28,
+            "width": 242,
+            "height": 156,
+            "sizeInBytes": 8279
+          }
+        },
+        "hash": "shrink_Wrap_3dc5b0f947",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 121.1,
+        "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/shrink_Wrap_3dc5b0f947.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2025-10-21T20:19:25.283Z",
+        "updatedAt": "2025-10-21T20:19:43.309Z",
+        "publishedAt": "2025-10-21T20:19:25.283Z"
+      },
+      "content": [
+        {
+          "__component": "content.hero",
+          "id": 25,
+          "content": [
+            {
+              "type": "heading",
+              "level": 1,
+              "children": [
+                {
+                  "text": "Scaffold Shrink Wrap",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Scaffold shrink wrap is a strong, high-quality polythene sheeting that is heat-sealed around scaffolding to form a tight, weatherproof barrier.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "image": {
+            "id": 21,
+            "documentId": "amhtasbbydthoiult0tekoq4",
+            "name": "shrinkWrap.jpg",
+            "alternativeText": "Shrink Wrap Property",
+            "caption": null,
+            "width": 1920,
+            "height": 1240,
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/large_shrink_Wrap_3dc5b0f947.jpg",
+                "hash": "large_shrink_Wrap_3dc5b0f947",
+                "mime": "image/jpeg",
+                "name": "large_shrinkWrap.jpg",
+                "path": null,
+                "size": 62.85,
+                "width": 1000,
+                "height": 646,
+                "sizeInBytes": 62845
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/small_shrink_Wrap_3dc5b0f947.jpg",
+                "hash": "small_shrink_Wrap_3dc5b0f947",
+                "mime": "image/jpeg",
+                "name": "small_shrinkWrap.jpg",
+                "path": null,
+                "size": 24.72,
+                "width": 500,
+                "height": 323,
+                "sizeInBytes": 24722
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/medium_shrink_Wrap_3dc5b0f947.jpg",
+                "hash": "medium_shrink_Wrap_3dc5b0f947",
+                "mime": "image/jpeg",
+                "name": "medium_shrinkWrap.jpg",
+                "path": null,
+                "size": 42.97,
+                "width": 750,
+                "height": 484,
+                "sizeInBytes": 42966
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/thumbnail_shrink_Wrap_3dc5b0f947.jpg",
+                "hash": "thumbnail_shrink_Wrap_3dc5b0f947",
+                "mime": "image/jpeg",
+                "name": "thumbnail_shrinkWrap.jpg",
+                "path": null,
+                "size": 8.28,
+                "width": 242,
+                "height": 156,
+                "sizeInBytes": 8279
+              }
+            },
+            "hash": "shrink_Wrap_3dc5b0f947",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 121.1,
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/shrink_Wrap_3dc5b0f947.jpg",
+            "previewUrl": null,
+            "provider": "strapi-provider-upload-strapi-cloud",
+            "provider_metadata": null,
+            "createdAt": "2025-10-21T20:19:25.283Z",
+            "updatedAt": "2025-10-21T20:19:43.309Z",
+            "publishedAt": "2025-10-21T20:19:25.283Z"
+          }
+        },
+        {
+          "__component": "content.split-content",
+          "id": 4,
+          "content": [
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Scaffold Shrink Wrap",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Scaffold shrink wrap is a strong, high-quality polythene sheeting that is heat-sealed around scaffolding to form a tight, weatherproof barrier. This creates a secure enclosure that protects construction sites from wind, rain, and debris, helping work to continue safely and efficiently in all weather conditions.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Unlike traditional scaffold sheeting or tarpaulins, shrink wrap provides a smooth and drum-tight finish that will not flap or tear in high winds. It offers excellent durability, UV resistance, and long-term protection for both workers and materials on site.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Scaffold shrink wrap is an ideal solution for encapsulation, containment, and weather protection during construction, refurbishment, and painting projects. It is flame-retardant and often recyclable, making it a professional, environmentally responsible choice for temporary building protection across the UK.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "invert": false,
+          "spacingTop": true,
+          "spacingBottom": true,
+          "image": {
+            "id": 22,
+            "documentId": "fdr08rcnsr87p12thm4pepdu",
+            "name": "shrinkWrap2.jpg",
+            "alternativeText": "shrink wrapped property",
+            "caption": null,
+            "width": 1920,
+            "height": 1601,
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/large_shrink_Wrap2_270bceacdf.jpg",
+                "hash": "large_shrink_Wrap2_270bceacdf",
+                "mime": "image/jpeg",
+                "name": "large_shrinkWrap2.jpg",
+                "path": null,
+                "size": 88.75,
+                "width": 1000,
+                "height": 834,
+                "sizeInBytes": 88752
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/small_shrink_Wrap2_270bceacdf.jpg",
+                "hash": "small_shrink_Wrap2_270bceacdf",
+                "mime": "image/jpeg",
+                "name": "small_shrinkWrap2.jpg",
+                "path": null,
+                "size": 33.82,
+                "width": 500,
+                "height": 417,
+                "sizeInBytes": 33819
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/medium_shrink_Wrap2_270bceacdf.jpg",
+                "hash": "medium_shrink_Wrap2_270bceacdf",
+                "mime": "image/jpeg",
+                "name": "medium_shrinkWrap2.jpg",
+                "path": null,
+                "size": 59.62,
+                "width": 750,
+                "height": 625,
+                "sizeInBytes": 59616
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/thumbnail_shrink_Wrap2_270bceacdf.jpg",
+                "hash": "thumbnail_shrink_Wrap2_270bceacdf",
+                "mime": "image/jpeg",
+                "name": "thumbnail_shrinkWrap2.jpg",
+                "path": null,
+                "size": 7.22,
+                "width": 187,
+                "height": 156,
+                "sizeInBytes": 7222
+              }
+            },
+            "hash": "shrink_Wrap2_270bceacdf",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 161.08,
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/shrink_Wrap2_270bceacdf.jpg",
+            "previewUrl": null,
+            "provider": "strapi-provider-upload-strapi-cloud",
+            "provider_metadata": null,
+            "createdAt": "2025-10-21T20:21:07.439Z",
+            "updatedAt": "2025-10-21T20:21:18.239Z",
+            "publishedAt": "2025-10-21T20:21:07.440Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "documentId": "ic9tsl6h6x03iqpvrsdjsg53",
+      "name": "Full temporary roof design",
+      "slug": "full-temporary-roof-design",
+      "title": "Scaffolding Design Services",
+      "description": "Professional scaffolding design services ensuring safety, stability, and compliance. Bespoke scaffold drawings and calculations tailored to your project requirements.",
+      "createdAt": "2025-10-06T18:57:38.707Z",
+      "updatedAt": "2025-10-21T20:45:31.043Z",
+      "publishedAt": "2025-10-21T20:45:31.129Z",
+      "image": {
+        "id": 23,
+        "documentId": "vrl172ruf095jyfy0pe1783n",
+        "name": "design.jpg",
+        "alternativeText": "design",
+        "caption": null,
+        "width": 1920,
+        "height": 1557,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/large_design_3e5c981d66.jpg",
+            "hash": "large_design_3e5c981d66",
+            "mime": "image/jpeg",
+            "name": "large_design.jpg",
+            "path": null,
+            "size": 94.37,
+            "width": 1000,
+            "height": 811,
+            "sizeInBytes": 94365
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/small_design_3e5c981d66.jpg",
+            "hash": "small_design_3e5c981d66",
+            "mime": "image/jpeg",
+            "name": "small_design.jpg",
+            "path": null,
+            "size": 34.33,
+            "width": 500,
+            "height": 405,
+            "sizeInBytes": 34333
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/medium_design_3e5c981d66.jpg",
+            "hash": "medium_design_3e5c981d66",
+            "mime": "image/jpeg",
+            "name": "medium_design.jpg",
+            "path": null,
+            "size": 63.69,
+            "width": 750,
+            "height": 608,
+            "sizeInBytes": 63690
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/thumbnail_design_3e5c981d66.jpg",
+            "hash": "thumbnail_design_3e5c981d66",
+            "mime": "image/jpeg",
+            "name": "thumbnail_design.jpg",
+            "path": null,
+            "size": 6.96,
+            "width": 193,
+            "height": 156,
+            "sizeInBytes": 6961
+          }
+        },
+        "hash": "design_3e5c981d66",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 187.27,
+        "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/design_3e5c981d66.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2025-10-21T20:45:16.735Z",
+        "updatedAt": "2025-10-21T20:45:28.452Z",
+        "publishedAt": "2025-10-21T20:45:16.735Z"
+      },
+      "content": [
+        {
+          "__component": "content.hero",
+          "id": 28,
+          "content": [
+            {
+              "type": "heading",
+              "level": 1,
+              "children": [
+                {
+                  "text": "Scaffolding Design Services",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Professional scaffolding design services ensuring safety, stability, and compliance. ",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "image": {
+            "id": 23,
+            "documentId": "vrl172ruf095jyfy0pe1783n",
+            "name": "design.jpg",
+            "alternativeText": "design",
+            "caption": null,
+            "width": 1920,
+            "height": 1557,
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/large_design_3e5c981d66.jpg",
+                "hash": "large_design_3e5c981d66",
+                "mime": "image/jpeg",
+                "name": "large_design.jpg",
+                "path": null,
+                "size": 94.37,
+                "width": 1000,
+                "height": 811,
+                "sizeInBytes": 94365
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/small_design_3e5c981d66.jpg",
+                "hash": "small_design_3e5c981d66",
+                "mime": "image/jpeg",
+                "name": "small_design.jpg",
+                "path": null,
+                "size": 34.33,
+                "width": 500,
+                "height": 405,
+                "sizeInBytes": 34333
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/medium_design_3e5c981d66.jpg",
+                "hash": "medium_design_3e5c981d66",
+                "mime": "image/jpeg",
+                "name": "medium_design.jpg",
+                "path": null,
+                "size": 63.69,
+                "width": 750,
+                "height": 608,
+                "sizeInBytes": 63690
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/thumbnail_design_3e5c981d66.jpg",
+                "hash": "thumbnail_design_3e5c981d66",
+                "mime": "image/jpeg",
+                "name": "thumbnail_design.jpg",
+                "path": null,
+                "size": 6.96,
+                "width": 193,
+                "height": 156,
+                "sizeInBytes": 6961
+              }
+            },
+            "hash": "design_3e5c981d66",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 187.27,
+            "url": "https://jolly-sharing-e17aa78fec.media.strapiapp.com/design_3e5c981d66.jpg",
+            "previewUrl": null,
+            "provider": "strapi-provider-upload-strapi-cloud",
+            "provider_metadata": null,
+            "createdAt": "2025-10-21T20:45:16.735Z",
+            "updatedAt": "2025-10-21T20:45:28.452Z",
+            "publishedAt": "2025-10-21T20:45:16.735Z"
+          }
+        },
+        {
+          "__component": "content.text",
+          "id": 25,
+          "content": [
+            {
+              "type": "heading",
+              "level": 2,
+              "children": [
+                {
+                  "text": "Scaffolding Design",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Scaffolding design plays a crucial role in ensuring the safety, strength, and stability of any scaffold structure. A professional design takes into account key details such as site location, intended use, height, dimensions, maximum loads, ground conditions, and the type of building or structure being supported. This process ensures the scaffold performs safely and efficiently for both workers and the public.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A scaffolding design typically includes detailed drawings and structural calculations for a bespoke scaffold built to meet the specific needs of the project. In some cases, a full design may not be required if the scaffold follows a recognised “standard configuration” as outlined in the NASC TG20 guidelines.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "By using a properly designed scaffold, you can be confident that your project complies with all relevant safety standards, reduces risk on site, and provides a secure platform for construction, maintenance, or restoration work.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "highlight": false,
+          "spacingTop": true,
+          "spacingBottom": true
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 100,
+      "pageCount": 1,
+      "total": 4
+    }
+  }
+}

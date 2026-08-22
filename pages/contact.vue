@@ -3,8 +3,8 @@
   const config = useRuntimeConfig();
   const route = useRoute();
 
-  const { data } = await useAsyncData<ContactData>('contact', () => 
-    $fetch(`${config.public.strapiUrl}/api/contact?pLevel`)
+  const { data } = await useAsyncData<ContactData>('contact', () =>
+    $fetch('/api/contact')
   );
 
   useHead({
