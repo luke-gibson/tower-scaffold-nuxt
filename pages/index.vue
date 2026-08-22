@@ -3,8 +3,8 @@ import type { HomeData } from '~/types/home';
 const config = useRuntimeConfig();
 const route = useRoute()
 
-const { data } = await useAsyncData<HomeData>('home', () => 
-  $fetch(`${config.public.strapiUrl}/api/home?pLevel`)
+const { data } = await useAsyncData<HomeData>('home', () =>
+  $fetch('/api/home')
 );
 
 const services = computed(() => data.value?.data?.services ?? []);
@@ -30,7 +30,7 @@ useSeoMeta({
 const jsonLdData = computed(() => {
   const servicesList = services.value.map(service => ({
     '@type': 'Service',
-    '@id': `${config.public.strapiUrl}/api/services/${service.slug}`,
+    '@id': `/api/services/${service.slug}`,
     'name': service.title,
     'description': service.description,
     'image': service.image?.formats?.large?.url || service.image?.url,
@@ -41,11 +41,11 @@ const jsonLdData = computed(() => {
     '@type': 'WebPage',
     'name': data.value?.data.title || 'Default Title',
     'description': data.value?.data.description || 'Default description',
-    'url': `${config.public.strapiUrl}`,
+    'url': config.public.siteUrl,
     'image': data.value?.data.image?.formats?.large?.url || data.value?.data.image?.url,
     'mainEntityOfPage': {
       '@type': 'WebPage',
-      '@id': `${config.public.strapiUrl}`,
+      '@id': config.public.siteUrl,
     },
     'services': servicesList,
   };

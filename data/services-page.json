@@ -1,0 +1,2174 @@
+{
+  "data": {
+    "id": 7,
+    "documentId": "hzgww4d0y2y2vhj70k3iexu4",
+    "name": "Services Page",
+    "slug": "services-page",
+    "description": "Tower Scaffold + Safety Netting: Full Southampton & Hampshire scaffolding & netting. Bespoke project solutions. Secure your free quote.",
+    "title": "Scaffolding & Safety Netting | Southampton & Hampshire Services",
+    "createdAt": "2025-09-12T10:45:48.969Z",
+    "updatedAt": "2026-02-08T11:35:18.102Z",
+    "publishedAt": "2026-02-08T11:35:18.313Z",
+    "image": {
+      "id": 7,
+      "documentId": "kf8u3cloh3zd78k6auqxpxgw",
+      "name": "tower_scaffolding_home_banner_388334a539.webp",
+      "alternativeText": "commercial scaffolding",
+      "caption": null,
+      "width": 1920,
+      "height": 1080,
+      "formats": {
+        "large": {
+          "ext": ".webp",
+          "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_tower_scaffolding_home_banner_388334a539_75c97ef4c5.webp",
+          "hash": "large_tower_scaffolding_home_banner_388334a539_75c97ef4c5",
+          "mime": "image/webp",
+          "name": "large_tower_scaffolding_home_banner_388334a539.webp",
+          "path": null,
+          "size": 81.5,
+          "width": 1000,
+          "height": 562,
+          "sizeInBytes": 81496
+        },
+        "small": {
+          "ext": ".webp",
+          "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_tower_scaffolding_home_banner_388334a539_75c97ef4c5.webp",
+          "hash": "small_tower_scaffolding_home_banner_388334a539_75c97ef4c5",
+          "mime": "image/webp",
+          "name": "small_tower_scaffolding_home_banner_388334a539.webp",
+          "path": null,
+          "size": 28.03,
+          "width": 500,
+          "height": 281,
+          "sizeInBytes": 28030
+        },
+        "medium": {
+          "ext": ".webp",
+          "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_tower_scaffolding_home_banner_388334a539_75c97ef4c5.webp",
+          "hash": "medium_tower_scaffolding_home_banner_388334a539_75c97ef4c5",
+          "mime": "image/webp",
+          "name": "medium_tower_scaffolding_home_banner_388334a539.webp",
+          "path": null,
+          "size": 53.77,
+          "width": 750,
+          "height": 422,
+          "sizeInBytes": 53766
+        },
+        "thumbnail": {
+          "ext": ".webp",
+          "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_tower_scaffolding_home_banner_388334a539_75c97ef4c5.webp",
+          "hash": "thumbnail_tower_scaffolding_home_banner_388334a539_75c97ef4c5",
+          "mime": "image/webp",
+          "name": "thumbnail_tower_scaffolding_home_banner_388334a539.webp",
+          "path": null,
+          "size": 8.68,
+          "width": 245,
+          "height": 138,
+          "sizeInBytes": 8684
+        }
+      },
+      "hash": "tower_scaffolding_home_banner_388334a539_75c97ef4c5",
+      "ext": ".webp",
+      "mime": "image/webp",
+      "size": 218.57,
+      "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/tower_scaffolding_home_banner_388334a539_75c97ef4c5.webp",
+      "previewUrl": null,
+      "provider": "strapi-provider-upload-strapi-cloud",
+      "provider_metadata": null,
+      "createdAt": "2025-09-12T10:45:44.504Z",
+      "updatedAt": "2025-09-12T21:16:00.660Z",
+      "publishedAt": "2025-09-12T10:45:44.504Z"
+    },
+    "services": [
+      {
+        "id": 29,
+        "documentId": "fqme2zirwevhgieg13h7a2em",
+        "name": "Haki Staircase Hire",
+        "slug": "haki-staircase-hire",
+        "title": "Haki Staircase Hire | Southampton & Hampshire Safe Access",
+        "description": "Haki staircases in Southampton & Hampshire: secure, rapid vertical access. Towers Scaffold & Netting provides stable, multi-level site solutions. Inquire now!",
+        "createdAt": "2025-09-12T10:49:59.387Z",
+        "updatedAt": "2026-02-08T11:36:07.000Z",
+        "publishedAt": "2026-02-08T11:36:07.068Z",
+        "image": {
+          "id": 11,
+          "documentId": "r0laeulck44m0mifsyiuhoqm",
+          "name": "Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7.jpg",
+          "alternativeText": "haki staircase",
+          "caption": null,
+          "width": 900,
+          "height": 1600,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb.jpg",
+              "hash": "large_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb",
+              "mime": "image/jpeg",
+              "name": "large_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7.jpg",
+              "path": null,
+              "size": 115.59,
+              "width": 563,
+              "height": 1000,
+              "sizeInBytes": 115589
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb.jpg",
+              "hash": "small_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb",
+              "mime": "image/jpeg",
+              "name": "small_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7.jpg",
+              "path": null,
+              "size": 35.97,
+              "width": 281,
+              "height": 500,
+              "sizeInBytes": 35966
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb.jpg",
+              "hash": "medium_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb",
+              "mime": "image/jpeg",
+              "name": "medium_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7.jpg",
+              "path": null,
+              "size": 72.32,
+              "width": 422,
+              "height": 750,
+              "sizeInBytes": 72317
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb.jpg",
+              "hash": "thumbnail_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb",
+              "mime": "image/jpeg",
+              "name": "thumbnail_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7.jpg",
+              "path": null,
+              "size": 4.23,
+              "width": 87,
+              "height": 156,
+              "sizeInBytes": 4229
+            }
+          },
+          "hash": "Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 158.02,
+          "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb.jpg",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-09-12T10:48:42.249Z",
+          "updatedAt": "2025-09-12T21:15:37.786Z",
+          "publishedAt": "2025-09-12T10:48:42.250Z"
+        },
+        "content": [
+          {
+            "__component": "content.hero",
+            "id": 50,
+            "content": [
+              {
+                "type": "heading",
+                "level": 1,
+                "children": [
+                  {
+                    "text": "Modular Haki Staircases for Fast, Safe Access",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Need safe and secure access across scaffold levels? We supply Haki staircases in multiple heights, with customisable options to suit your site and layout.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "image": {
+              "id": 11,
+              "documentId": "r0laeulck44m0mifsyiuhoqm",
+              "name": "Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7.jpg",
+              "alternativeText": "haki staircase",
+              "caption": null,
+              "width": 900,
+              "height": 1600,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb.jpg",
+                  "hash": "large_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb",
+                  "mime": "image/jpeg",
+                  "name": "large_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7.jpg",
+                  "path": null,
+                  "size": 115.59,
+                  "width": 563,
+                  "height": 1000,
+                  "sizeInBytes": 115589
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb.jpg",
+                  "hash": "small_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb",
+                  "mime": "image/jpeg",
+                  "name": "small_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7.jpg",
+                  "path": null,
+                  "size": 35.97,
+                  "width": 281,
+                  "height": 500,
+                  "sizeInBytes": 35966
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb.jpg",
+                  "hash": "medium_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb",
+                  "mime": "image/jpeg",
+                  "name": "medium_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7.jpg",
+                  "path": null,
+                  "size": 72.32,
+                  "width": 422,
+                  "height": 750,
+                  "sizeInBytes": 72317
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb.jpg",
+                  "hash": "thumbnail_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7.jpg",
+                  "path": null,
+                  "size": 4.23,
+                  "width": 87,
+                  "height": 156,
+                  "sizeInBytes": 4229
+                }
+              },
+              "hash": "Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 158.02,
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/Whats_App_Image_2025_04_11_at_10_51_06_AM_d2f63794e7_9ab7dfe2fb.jpg",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-09-12T10:48:42.249Z",
+              "updatedAt": "2025-09-12T21:15:37.786Z",
+              "publishedAt": "2025-09-12T10:48:42.250Z"
+            }
+          },
+          {
+            "__component": "content.text",
+            "id": 46,
+            "content": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Quick to Install, Easy to Use",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Our stair towers come in 1m, 1.5m, and 2m flight heights, giving you flexible options for multi-level access. They’re ideal for larger scaffold builds and complex projects where ladder access isn’t practical.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Every staircase is fitted by trained professionals, and optional security features can be added to prevent unauthorised site access.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "highlight": false,
+            "spacingTop": true,
+            "spacingBottom": true
+          },
+          {
+            "__component": "content.split-content",
+            "id": 55,
+            "content": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "Built with Safety at the Core",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Haki staircases offer exceptional stability and ease of use. Whether for long-term use or short-term hire, our systems ensure your team can move safely and confidently between scaffold levels.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "With full compliance and quick installation, they’re the ideal solution for keeping your team moving — safely and securely.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "invert": false,
+            "spacingTop": false,
+            "spacingBottom": true,
+            "image": {
+              "id": 24,
+              "documentId": "pcuuzwkxdvi4e2bqsl1ptw08",
+              "name": "Screenshot 2025-09-12 at 10.04.57 pm.png",
+              "alternativeText": "haki staircase",
+              "caption": null,
+              "width": 3184,
+              "height": 1786,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_Screenshot_2025_09_12_at_10_04_57_pm_602ede1e43.png",
+                  "hash": "large_Screenshot_2025_09_12_at_10_04_57_pm_602ede1e43",
+                  "mime": "image/png",
+                  "name": "large_Screenshot 2025-09-12 at 10.04.57 pm.png",
+                  "path": null,
+                  "size": 1315.25,
+                  "width": 1000,
+                  "height": 561,
+                  "sizeInBytes": 1315254
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_Screenshot_2025_09_12_at_10_04_57_pm_602ede1e43.png",
+                  "hash": "small_Screenshot_2025_09_12_at_10_04_57_pm_602ede1e43",
+                  "mime": "image/png",
+                  "name": "small_Screenshot 2025-09-12 at 10.04.57 pm.png",
+                  "path": null,
+                  "size": 343.88,
+                  "width": 500,
+                  "height": 280,
+                  "sizeInBytes": 343878
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_Screenshot_2025_09_12_at_10_04_57_pm_602ede1e43.png",
+                  "hash": "medium_Screenshot_2025_09_12_at_10_04_57_pm_602ede1e43",
+                  "mime": "image/png",
+                  "name": "medium_Screenshot 2025-09-12 at 10.04.57 pm.png",
+                  "path": null,
+                  "size": 757.97,
+                  "width": 750,
+                  "height": 421,
+                  "sizeInBytes": 757968
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_Screenshot_2025_09_12_at_10_04_57_pm_602ede1e43.png",
+                  "hash": "thumbnail_Screenshot_2025_09_12_at_10_04_57_pm_602ede1e43",
+                  "mime": "image/png",
+                  "name": "thumbnail_Screenshot 2025-09-12 at 10.04.57 pm.png",
+                  "path": null,
+                  "size": 85.33,
+                  "width": 245,
+                  "height": 137,
+                  "sizeInBytes": 85329
+                }
+              },
+              "hash": "Screenshot_2025_09_12_at_10_04_57_pm_602ede1e43",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 2711.94,
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/Screenshot_2025_09_12_at_10_04_57_pm_602ede1e43.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-09-12T21:05:28.329Z",
+              "updatedAt": "2025-09-12T21:14:32.717Z",
+              "publishedAt": "2025-09-12T21:05:28.331Z"
+            }
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "documentId": "p5tydabnc6yzl6wf21xdlwwd",
+        "name": "Temporary Roof Scaffolding",
+        "slug": "temporary-roof-scaffolding",
+        "title": "Temporary Roof Scaffolding | Southampton & Hampshire Weather Protection",
+        "description": "Customised temporary roof scaffolding in Southampton & Hampshire. Protect your project from weather delays with fast, safe, compliant structures.",
+        "createdAt": "2025-09-12T10:58:38.386Z",
+        "updatedAt": "2026-02-08T11:36:16.690Z",
+        "publishedAt": "2026-02-08T11:36:16.789Z",
+        "image": {
+          "id": 19,
+          "documentId": "i6075qfjlihn0mltl5fd0nlq",
+          "name": "Temporary_Roofand_Scaffold_1d439df037.jpg",
+          "alternativeText": "tower scaffold",
+          "caption": null,
+          "width": 1600,
+          "height": 1200,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_Temporary_Roofand_Scaffold_1d439df037_21719125c6.jpg",
+              "hash": "large_Temporary_Roofand_Scaffold_1d439df037_21719125c6",
+              "mime": "image/jpeg",
+              "name": "large_Temporary_Roofand_Scaffold_1d439df037.jpg",
+              "path": null,
+              "size": 141.64,
+              "width": 1000,
+              "height": 750,
+              "sizeInBytes": 141644
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_Temporary_Roofand_Scaffold_1d439df037_21719125c6.jpg",
+              "hash": "small_Temporary_Roofand_Scaffold_1d439df037_21719125c6",
+              "mime": "image/jpeg",
+              "name": "small_Temporary_Roofand_Scaffold_1d439df037.jpg",
+              "path": null,
+              "size": 41.07,
+              "width": 500,
+              "height": 375,
+              "sizeInBytes": 41067
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_Temporary_Roofand_Scaffold_1d439df037_21719125c6.jpg",
+              "hash": "medium_Temporary_Roofand_Scaffold_1d439df037_21719125c6",
+              "mime": "image/jpeg",
+              "name": "medium_Temporary_Roofand_Scaffold_1d439df037.jpg",
+              "path": null,
+              "size": 86.23,
+              "width": 750,
+              "height": 563,
+              "sizeInBytes": 86226
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_Temporary_Roofand_Scaffold_1d439df037_21719125c6.jpg",
+              "hash": "thumbnail_Temporary_Roofand_Scaffold_1d439df037_21719125c6",
+              "mime": "image/jpeg",
+              "name": "thumbnail_Temporary_Roofand_Scaffold_1d439df037.jpg",
+              "path": null,
+              "size": 8.44,
+              "width": 208,
+              "height": 156,
+              "sizeInBytes": 8438
+            }
+          },
+          "hash": "Temporary_Roofand_Scaffold_1d439df037_21719125c6",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 197.82,
+          "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/Temporary_Roofand_Scaffold_1d439df037_21719125c6.jpg",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-09-12T10:57:55.045Z",
+          "updatedAt": "2025-09-12T21:14:52.854Z",
+          "publishedAt": "2025-09-12T10:57:55.046Z"
+        },
+        "content": [
+          {
+            "__component": "content.hero",
+            "id": 51,
+            "content": [
+              {
+                "type": "heading",
+                "level": 1,
+                "children": [
+                  {
+                    "text": "Temporary Roof Scaffolding to Keep Your Project Covered",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Protect your work from unpredictable weather with reliable temporary roof scaffolding. We build structures to shield your site, your materials, and your schedule.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "image": {
+              "id": 19,
+              "documentId": "i6075qfjlihn0mltl5fd0nlq",
+              "name": "Temporary_Roofand_Scaffold_1d439df037.jpg",
+              "alternativeText": "tower scaffold",
+              "caption": null,
+              "width": 1600,
+              "height": 1200,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_Temporary_Roofand_Scaffold_1d439df037_21719125c6.jpg",
+                  "hash": "large_Temporary_Roofand_Scaffold_1d439df037_21719125c6",
+                  "mime": "image/jpeg",
+                  "name": "large_Temporary_Roofand_Scaffold_1d439df037.jpg",
+                  "path": null,
+                  "size": 141.64,
+                  "width": 1000,
+                  "height": 750,
+                  "sizeInBytes": 141644
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_Temporary_Roofand_Scaffold_1d439df037_21719125c6.jpg",
+                  "hash": "small_Temporary_Roofand_Scaffold_1d439df037_21719125c6",
+                  "mime": "image/jpeg",
+                  "name": "small_Temporary_Roofand_Scaffold_1d439df037.jpg",
+                  "path": null,
+                  "size": 41.07,
+                  "width": 500,
+                  "height": 375,
+                  "sizeInBytes": 41067
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_Temporary_Roofand_Scaffold_1d439df037_21719125c6.jpg",
+                  "hash": "medium_Temporary_Roofand_Scaffold_1d439df037_21719125c6",
+                  "mime": "image/jpeg",
+                  "name": "medium_Temporary_Roofand_Scaffold_1d439df037.jpg",
+                  "path": null,
+                  "size": 86.23,
+                  "width": 750,
+                  "height": 563,
+                  "sizeInBytes": 86226
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_Temporary_Roofand_Scaffold_1d439df037_21719125c6.jpg",
+                  "hash": "thumbnail_Temporary_Roofand_Scaffold_1d439df037_21719125c6",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_Temporary_Roofand_Scaffold_1d439df037.jpg",
+                  "path": null,
+                  "size": 8.44,
+                  "width": 208,
+                  "height": 156,
+                  "sizeInBytes": 8438
+                }
+              },
+              "hash": "Temporary_Roofand_Scaffold_1d439df037_21719125c6",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 197.82,
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/Temporary_Roofand_Scaffold_1d439df037_21719125c6.jpg",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-09-12T10:57:55.045Z",
+              "updatedAt": "2025-09-12T21:14:52.854Z",
+              "publishedAt": "2025-09-12T10:57:55.046Z"
+            }
+          },
+          {
+            "__component": "content.text",
+            "id": 47,
+            "content": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Weather-Resistant Structures Built to Last",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Whether it’s a two-day repair or a two-month renovation, our temporary roofing systems provide effective weatherproofing and site safety. Designed to protect both workers and property, they allow you to maintain productivity without worrying about the forecast.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Each roof is customised to fit your site, with designs that are fast to erect, safe to use, and fully compliant with UK scaffolding standards.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "highlight": false,
+            "spacingTop": true,
+            "spacingBottom": true
+          },
+          {
+            "__component": "content.split-content",
+            "id": 56,
+            "content": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "Protection That Keeps Your Project on Track",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Our roof scaffolds are a practical solution for open-roof works, property renovations, and structural repairs. They help reduce weather delays and minimise water damage, giving your team a secure environment to work in.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "We’ve provided temporary roofing for everything from single-storey homes to large industrial buildings — always delivered with speed, safety, and precision.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "invert": false,
+            "spacingTop": false,
+            "spacingBottom": true,
+            "image": {
+              "id": 25,
+              "documentId": "o3ll436cl1u5ha1csgqppo6z",
+              "name": "Screenshot 2025-09-12 at 10.06.00 pm.png",
+              "alternativeText": "temp roofing",
+              "caption": null,
+              "width": 3174,
+              "height": 2372,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_Screenshot_2025_09_12_at_10_06_00_pm_31bc5d6184.png",
+                  "hash": "large_Screenshot_2025_09_12_at_10_06_00_pm_31bc5d6184",
+                  "mime": "image/png",
+                  "name": "large_Screenshot 2025-09-12 at 10.06.00 pm.png",
+                  "path": null,
+                  "size": 1630.91,
+                  "width": 1000,
+                  "height": 747,
+                  "sizeInBytes": 1630909
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_Screenshot_2025_09_12_at_10_06_00_pm_31bc5d6184.png",
+                  "hash": "small_Screenshot_2025_09_12_at_10_06_00_pm_31bc5d6184",
+                  "mime": "image/png",
+                  "name": "small_Screenshot 2025-09-12 at 10.06.00 pm.png",
+                  "path": null,
+                  "size": 429.57,
+                  "width": 500,
+                  "height": 374,
+                  "sizeInBytes": 429572
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_Screenshot_2025_09_12_at_10_06_00_pm_31bc5d6184.png",
+                  "hash": "medium_Screenshot_2025_09_12_at_10_06_00_pm_31bc5d6184",
+                  "mime": "image/png",
+                  "name": "medium_Screenshot 2025-09-12 at 10.06.00 pm.png",
+                  "path": null,
+                  "size": 939.22,
+                  "width": 750,
+                  "height": 560,
+                  "sizeInBytes": 939217
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_Screenshot_2025_09_12_at_10_06_00_pm_31bc5d6184.png",
+                  "hash": "thumbnail_Screenshot_2025_09_12_at_10_06_00_pm_31bc5d6184",
+                  "mime": "image/png",
+                  "name": "thumbnail_Screenshot 2025-09-12 at 10.06.00 pm.png",
+                  "path": null,
+                  "size": 81.66,
+                  "width": 209,
+                  "height": 156,
+                  "sizeInBytes": 81662
+                }
+              },
+              "hash": "Screenshot_2025_09_12_at_10_06_00_pm_31bc5d6184",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 2892.13,
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/Screenshot_2025_09_12_at_10_06_00_pm_31bc5d6184.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-09-12T21:06:39.773Z",
+              "updatedAt": "2025-09-12T21:14:28.162Z",
+              "publishedAt": "2025-09-12T21:06:39.776Z"
+            }
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "documentId": "ule4u91kuhk23o5goolhdljc",
+        "name": "Scaffold Design",
+        "slug": "scaffold-design",
+        "title": "Scaffold Design | Southampton & Hampshire Experts",
+        "description": "Southampton & Hampshire scaffold design experts. Towers Scaffold & Netting crafts safe, bespoke structures for complex builds. Consult us today.",
+        "createdAt": "2025-09-12T10:57:07.663Z",
+        "updatedAt": "2026-02-08T11:35:59.375Z",
+        "publishedAt": "2026-02-08T11:35:59.520Z",
+        "image": {
+          "id": 18,
+          "documentId": "axp6fvgtdmc30usnphbvyz5d",
+          "name": "aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d.webp",
+          "alternativeText": "planning document",
+          "caption": null,
+          "width": 1080,
+          "height": 753,
+          "formats": {
+            "large": {
+              "ext": ".webp",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c.webp",
+              "hash": "large_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c",
+              "mime": "image/webp",
+              "name": "large_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d.webp",
+              "path": null,
+              "size": 49.44,
+              "width": 1000,
+              "height": 697,
+              "sizeInBytes": 49440
+            },
+            "small": {
+              "ext": ".webp",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c.webp",
+              "hash": "small_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c",
+              "mime": "image/webp",
+              "name": "small_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d.webp",
+              "path": null,
+              "size": 17.85,
+              "width": 500,
+              "height": 349,
+              "sizeInBytes": 17852
+            },
+            "medium": {
+              "ext": ".webp",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c.webp",
+              "hash": "medium_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c",
+              "mime": "image/webp",
+              "name": "medium_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d.webp",
+              "path": null,
+              "size": 32.1,
+              "width": 750,
+              "height": 523,
+              "sizeInBytes": 32104
+            },
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c.webp",
+              "hash": "thumbnail_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c",
+              "mime": "image/webp",
+              "name": "thumbnail_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d.webp",
+              "path": null,
+              "size": 5.02,
+              "width": 224,
+              "height": 156,
+              "sizeInBytes": 5024
+            }
+          },
+          "hash": "aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 59.52,
+          "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c.webp",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-09-12T10:56:11.261Z",
+          "updatedAt": "2025-09-12T21:14:58.627Z",
+          "publishedAt": "2025-09-12T10:56:11.261Z"
+        },
+        "content": [
+          {
+            "__component": "content.hero",
+            "id": 49,
+            "content": [
+              {
+                "type": "heading",
+                "level": 1,
+                "children": [
+                  {
+                    "text": "Scaffold Design Services for Any Project",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Tower Scaffold + Safety Netting, we offer professional scaffold design and calculation services tailored to your site’s needs. From small-scale builds to complex industrial projects, our safety-first approach ensures every scaffold starts with a solid plan.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "image": {
+              "id": 18,
+              "documentId": "axp6fvgtdmc30usnphbvyz5d",
+              "name": "aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d.webp",
+              "alternativeText": "planning document",
+              "caption": null,
+              "width": 1080,
+              "height": 753,
+              "formats": {
+                "large": {
+                  "ext": ".webp",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c.webp",
+                  "hash": "large_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c",
+                  "mime": "image/webp",
+                  "name": "large_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d.webp",
+                  "path": null,
+                  "size": 49.44,
+                  "width": 1000,
+                  "height": 697,
+                  "sizeInBytes": 49440
+                },
+                "small": {
+                  "ext": ".webp",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c.webp",
+                  "hash": "small_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c",
+                  "mime": "image/webp",
+                  "name": "small_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d.webp",
+                  "path": null,
+                  "size": 17.85,
+                  "width": 500,
+                  "height": 349,
+                  "sizeInBytes": 17852
+                },
+                "medium": {
+                  "ext": ".webp",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c.webp",
+                  "hash": "medium_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c",
+                  "mime": "image/webp",
+                  "name": "medium_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d.webp",
+                  "path": null,
+                  "size": 32.1,
+                  "width": 750,
+                  "height": 523,
+                  "sizeInBytes": 32104
+                },
+                "thumbnail": {
+                  "ext": ".webp",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c.webp",
+                  "hash": "thumbnail_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c",
+                  "mime": "image/webp",
+                  "name": "thumbnail_aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d.webp",
+                  "path": null,
+                  "size": 5.02,
+                  "width": 224,
+                  "height": 156,
+                  "sizeInBytes": 5024
+                }
+              },
+              "hash": "aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c",
+              "ext": ".webp",
+              "mime": "image/webp",
+              "size": 59.52,
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/aa23d358_658e_45fe_8673_831c068a4782_96a3a4a51d_554545d78c.webp",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-09-12T10:56:11.261Z",
+              "updatedAt": "2025-09-12T21:14:58.627Z",
+              "publishedAt": "2025-09-12T10:56:11.261Z"
+            }
+          },
+          {
+            "__component": "content.text",
+            "id": 45,
+            "content": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Expert Planning with Full Compliance",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Every project is unique — that’s why our scaffold designs are created in partnership with experienced engineers to meet your exact specifications. We work with you to develop safe, practical, and fully compliant structures, ensuring seamless integration into your build schedule.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Our designs cover a wide range of scaffold types, from independent scaffolds to complex builds such as bridges, loading bays, and temporary roofs. All plans include the necessary risk assessments and calculation reports, ready for inspection or approval.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "highlight": false,
+            "spacingTop": true,
+            "spacingBottom": true
+          },
+          {
+            "__component": "content.split-content",
+            "id": 54,
+            "content": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "Tailored Solutions for Complex Requirements",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "We specialise in scaffolding for challenging environments where standard setups won’t cut it. Our design service is ideal for unique builds like heavy-duty loading bays, shoring systems, and bridge access — always created with precision and site-specific planning.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Whether your project demands extra stability, higher weight loads, or specific spatial configurations, we deliver scaffold designs that match your goals while meeting strict UK safety regulations.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "invert": false,
+            "spacingTop": false,
+            "spacingBottom": true,
+            "image": {
+              "id": 26,
+              "documentId": "oytf8vfpwabagc83ao2qnryb",
+              "name": "Screenshot 2025-09-12 at 10.07.17 pm.png",
+              "alternativeText": "planning document",
+              "caption": null,
+              "width": 2154,
+              "height": 1470,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_Screenshot_2025_09_12_at_10_07_17_pm_5414908870.png",
+                  "hash": "large_Screenshot_2025_09_12_at_10_07_17_pm_5414908870",
+                  "mime": "image/png",
+                  "name": "large_Screenshot 2025-09-12 at 10.07.17 pm.png",
+                  "path": null,
+                  "size": 741.87,
+                  "width": 1000,
+                  "height": 682,
+                  "sizeInBytes": 741869
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_Screenshot_2025_09_12_at_10_07_17_pm_5414908870.png",
+                  "hash": "small_Screenshot_2025_09_12_at_10_07_17_pm_5414908870",
+                  "mime": "image/png",
+                  "name": "small_Screenshot 2025-09-12 at 10.07.17 pm.png",
+                  "path": null,
+                  "size": 200.79,
+                  "width": 500,
+                  "height": 341,
+                  "sizeInBytes": 200794
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_Screenshot_2025_09_12_at_10_07_17_pm_5414908870.png",
+                  "hash": "medium_Screenshot_2025_09_12_at_10_07_17_pm_5414908870",
+                  "mime": "image/png",
+                  "name": "medium_Screenshot 2025-09-12 at 10.07.17 pm.png",
+                  "path": null,
+                  "size": 431.16,
+                  "width": 750,
+                  "height": 512,
+                  "sizeInBytes": 431158
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_Screenshot_2025_09_12_at_10_07_17_pm_5414908870.png",
+                  "hash": "thumbnail_Screenshot_2025_09_12_at_10_07_17_pm_5414908870",
+                  "mime": "image/png",
+                  "name": "thumbnail_Screenshot 2025-09-12 at 10.07.17 pm.png",
+                  "path": null,
+                  "size": 47.94,
+                  "width": 229,
+                  "height": 156,
+                  "sizeInBytes": 47941
+                }
+              },
+              "hash": "Screenshot_2025_09_12_at_10_07_17_pm_5414908870",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 894.64,
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/Screenshot_2025_09_12_at_10_07_17_pm_5414908870.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-09-12T21:07:43.821Z",
+              "updatedAt": "2025-09-12T21:14:23.306Z",
+              "publishedAt": "2025-09-12T21:07:43.822Z"
+            }
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "documentId": "swkz2c6bhe45pxosp1pnhbo2",
+        "name": "Safety Netting",
+        "slug": "safety-netting",
+        "title": "Safety Netting Installation | Fall Protection Southampton & Hampshire",
+        "description": "FASET-qualified safety netting & fall protection installed to BS EN standards. Reduce risk on worksites across Southampton & Hampshire with Tower Scaffold + Safety Netting. Get a tailored quote now.",
+        "createdAt": "2025-09-12T10:55:27.950Z",
+        "updatedAt": "2026-02-08T11:35:51.304Z",
+        "publishedAt": "2026-02-08T11:35:51.448Z",
+        "image": {
+          "id": 14,
+          "documentId": "edf9iutwhi1c711y382onqht",
+          "name": "medium_f8ed9723_f681_4b1e_997d_bb8cb1a8e6d0_8b99f4dba1.jpg",
+          "alternativeText": "roof netting",
+          "caption": null,
+          "width": 750,
+          "height": 453,
+          "formats": {
+            "small": {
+              "ext": ".jpg",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_medium_f8ed9723_f681_4b1e_997d_bb8cb1a8e6d0_8b99f4dba1_26c1649564.jpg",
+              "hash": "small_medium_f8ed9723_f681_4b1e_997d_bb8cb1a8e6d0_8b99f4dba1_26c1649564",
+              "mime": "image/jpeg",
+              "name": "small_medium_f8ed9723_f681_4b1e_997d_bb8cb1a8e6d0_8b99f4dba1.jpg",
+              "path": null,
+              "size": 49.26,
+              "width": 500,
+              "height": 302,
+              "sizeInBytes": 49256
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_medium_f8ed9723_f681_4b1e_997d_bb8cb1a8e6d0_8b99f4dba1_26c1649564.jpg",
+              "hash": "thumbnail_medium_f8ed9723_f681_4b1e_997d_bb8cb1a8e6d0_8b99f4dba1_26c1649564",
+              "mime": "image/jpeg",
+              "name": "thumbnail_medium_f8ed9723_f681_4b1e_997d_bb8cb1a8e6d0_8b99f4dba1.jpg",
+              "path": null,
+              "size": 12.61,
+              "width": 245,
+              "height": 148,
+              "sizeInBytes": 12605
+            }
+          },
+          "hash": "medium_f8ed9723_f681_4b1e_997d_bb8cb1a8e6d0_8b99f4dba1_26c1649564",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 98.85,
+          "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_f8ed9723_f681_4b1e_997d_bb8cb1a8e6d0_8b99f4dba1_26c1649564.jpg",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-09-12T10:53:03.532Z",
+          "updatedAt": "2025-09-12T21:15:18.800Z",
+          "publishedAt": "2025-09-12T10:53:03.532Z"
+        },
+        "content": [
+          {
+            "__component": "content.hero",
+            "id": 48,
+            "content": [
+              {
+                "type": "heading",
+                "level": 1,
+                "children": [
+                  {
+                    "text": "Certified Safety Netting for Safer Worksites",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Protect your team from falls with fully certified safety netting. At Tower Scaffold + Safety Netting, we install fall arrest systems that meet strict UK standards.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "image": {
+              "id": 14,
+              "documentId": "edf9iutwhi1c711y382onqht",
+              "name": "medium_f8ed9723_f681_4b1e_997d_bb8cb1a8e6d0_8b99f4dba1.jpg",
+              "alternativeText": "roof netting",
+              "caption": null,
+              "width": 750,
+              "height": 453,
+              "formats": {
+                "small": {
+                  "ext": ".jpg",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_medium_f8ed9723_f681_4b1e_997d_bb8cb1a8e6d0_8b99f4dba1_26c1649564.jpg",
+                  "hash": "small_medium_f8ed9723_f681_4b1e_997d_bb8cb1a8e6d0_8b99f4dba1_26c1649564",
+                  "mime": "image/jpeg",
+                  "name": "small_medium_f8ed9723_f681_4b1e_997d_bb8cb1a8e6d0_8b99f4dba1.jpg",
+                  "path": null,
+                  "size": 49.26,
+                  "width": 500,
+                  "height": 302,
+                  "sizeInBytes": 49256
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_medium_f8ed9723_f681_4b1e_997d_bb8cb1a8e6d0_8b99f4dba1_26c1649564.jpg",
+                  "hash": "thumbnail_medium_f8ed9723_f681_4b1e_997d_bb8cb1a8e6d0_8b99f4dba1_26c1649564",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_medium_f8ed9723_f681_4b1e_997d_bb8cb1a8e6d0_8b99f4dba1.jpg",
+                  "path": null,
+                  "size": 12.61,
+                  "width": 245,
+                  "height": 148,
+                  "sizeInBytes": 12605
+                }
+              },
+              "hash": "medium_f8ed9723_f681_4b1e_997d_bb8cb1a8e6d0_8b99f4dba1_26c1649564",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 98.85,
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_f8ed9723_f681_4b1e_997d_bb8cb1a8e6d0_8b99f4dba1_26c1649564.jpg",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-09-12T10:53:03.532Z",
+              "updatedAt": "2025-09-12T21:15:18.800Z",
+              "publishedAt": "2025-09-12T10:53:03.532Z"
+            }
+          },
+          {
+            "__component": "content.text",
+            "id": 44,
+            "content": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Specialist Installations by Qualified Riggers",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Our safety netting is manufactured to BS EN 1263-1 standards and installed by FASET-qualified riggers. Every team member holds CSCS and IPAF certifications, ensuring installations are safe, professional, and regulation-ready.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Ideal for roofing works, high-level repairs, or steel frame construction — we deliver fall protection that reduces risk without compromising workflow.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "highlight": false,
+            "spacingTop": true,
+            "spacingBottom": true
+          },
+          {
+            "__component": "content.split-content",
+            "id": 52,
+            "content": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "Trusted by Builders Across the UK",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "We work with main contractors and independent builders to provide edge protection and safety netting that’s quick to install and easy to inspect. Whether it’s a large industrial job or a compact domestic build, we make safety simple.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Our systems comply with BS EN 1263-2 and BS 8411 standards, giving you peace of mind that every height hazard is under control.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "invert": false,
+            "spacingTop": false,
+            "spacingBottom": true,
+            "image": {
+              "id": 27,
+              "documentId": "imkbk9e6ovipl78hql84yk3f",
+              "name": "Screenshot 2025-09-12 at 10.08.15 pm.png",
+              "alternativeText": "construction site with netting",
+              "caption": null,
+              "width": 1496,
+              "height": 1120,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_Screenshot_2025_09_12_at_10_08_15_pm_2dd29c6f45.png",
+                  "hash": "large_Screenshot_2025_09_12_at_10_08_15_pm_2dd29c6f45",
+                  "mime": "image/png",
+                  "name": "large_Screenshot 2025-09-12 at 10.08.15 pm.png",
+                  "path": null,
+                  "size": 1532.25,
+                  "width": 1000,
+                  "height": 749,
+                  "sizeInBytes": 1532253
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_Screenshot_2025_09_12_at_10_08_15_pm_2dd29c6f45.png",
+                  "hash": "small_Screenshot_2025_09_12_at_10_08_15_pm_2dd29c6f45",
+                  "mime": "image/png",
+                  "name": "small_Screenshot 2025-09-12 at 10.08.15 pm.png",
+                  "path": null,
+                  "size": 402.57,
+                  "width": 500,
+                  "height": 374,
+                  "sizeInBytes": 402572
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_Screenshot_2025_09_12_at_10_08_15_pm_2dd29c6f45.png",
+                  "hash": "medium_Screenshot_2025_09_12_at_10_08_15_pm_2dd29c6f45",
+                  "mime": "image/png",
+                  "name": "medium_Screenshot 2025-09-12 at 10.08.15 pm.png",
+                  "path": null,
+                  "size": 875.95,
+                  "width": 750,
+                  "height": 561,
+                  "sizeInBytes": 875950
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_Screenshot_2025_09_12_at_10_08_15_pm_2dd29c6f45.png",
+                  "hash": "thumbnail_Screenshot_2025_09_12_at_10_08_15_pm_2dd29c6f45",
+                  "mime": "image/png",
+                  "name": "thumbnail_Screenshot 2025-09-12 at 10.08.15 pm.png",
+                  "path": null,
+                  "size": 78.62,
+                  "width": 208,
+                  "height": 156,
+                  "sizeInBytes": 78623
+                }
+              },
+              "hash": "Screenshot_2025_09_12_at_10_08_15_pm_2dd29c6f45",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 657.36,
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/Screenshot_2025_09_12_at_10_08_15_pm_2dd29c6f45.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-09-12T21:08:38.409Z",
+              "updatedAt": "2025-09-12T21:14:18.100Z",
+              "publishedAt": "2025-09-12T21:08:38.410Z"
+            }
+          },
+          {
+            "__component": "content.split-content",
+            "id": 53,
+            "content": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "The Importance of Edge Protection",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Edge protection plays a vital role in preventing falls from height, acting as a physical barrier along open edges. When combined with safety netting, it adds an extra layer of protection, helping to safeguard both workers and the public below. At Tower Scaffold + Safety Netting, we integrate reliable edge protection into all our setups to ensure full compliance with UK safety standards.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "invert": true,
+            "spacingTop": false,
+            "spacingBottom": true,
+            "image": {
+              "id": 28,
+              "documentId": "mb15jc0si8ed9zqz96vuwqis",
+              "name": "Screenshot 2025-09-12 at 10.08.52 pm.png",
+              "alternativeText": "construction site",
+              "caption": null,
+              "width": 1482,
+              "height": 1106,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_Screenshot_2025_09_12_at_10_08_52_pm_d6d62d23dc.png",
+                  "hash": "large_Screenshot_2025_09_12_at_10_08_52_pm_d6d62d23dc",
+                  "mime": "image/png",
+                  "name": "large_Screenshot 2025-09-12 at 10.08.52 pm.png",
+                  "path": null,
+                  "size": 1689.92,
+                  "width": 1000,
+                  "height": 746,
+                  "sizeInBytes": 1689919
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_Screenshot_2025_09_12_at_10_08_52_pm_d6d62d23dc.png",
+                  "hash": "small_Screenshot_2025_09_12_at_10_08_52_pm_d6d62d23dc",
+                  "mime": "image/png",
+                  "name": "small_Screenshot 2025-09-12 at 10.08.52 pm.png",
+                  "path": null,
+                  "size": 444.92,
+                  "width": 500,
+                  "height": 373,
+                  "sizeInBytes": 444920
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_Screenshot_2025_09_12_at_10_08_52_pm_d6d62d23dc.png",
+                  "hash": "medium_Screenshot_2025_09_12_at_10_08_52_pm_d6d62d23dc",
+                  "mime": "image/png",
+                  "name": "medium_Screenshot 2025-09-12 at 10.08.52 pm.png",
+                  "path": null,
+                  "size": 968.33,
+                  "width": 750,
+                  "height": 560,
+                  "sizeInBytes": 968326
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_Screenshot_2025_09_12_at_10_08_52_pm_d6d62d23dc.png",
+                  "hash": "thumbnail_Screenshot_2025_09_12_at_10_08_52_pm_d6d62d23dc",
+                  "mime": "image/png",
+                  "name": "thumbnail_Screenshot 2025-09-12 at 10.08.52 pm.png",
+                  "path": null,
+                  "size": 86.32,
+                  "width": 209,
+                  "height": 156,
+                  "sizeInBytes": 86322
+                }
+              },
+              "hash": "Screenshot_2025_09_12_at_10_08_52_pm_d6d62d23dc",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 668.25,
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/Screenshot_2025_09_12_at_10_08_52_pm_d6d62d23dc.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-09-12T21:09:11.967Z",
+              "updatedAt": "2025-09-12T21:14:12.089Z",
+              "publishedAt": "2025-09-12T21:09:11.967Z"
+            }
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "documentId": "ide074xa3145vok3l2uy5b49",
+        "name": "Commercial & Industrial Scaffolding",
+        "slug": "commercial-and-industrial-scaffolding",
+        "title": "Commercial Scaffolding | Southampton & Hampshire Experts",
+        "description": "Towers Scaffold & Netting delivers secure, cost-effective commercial & industrial scaffolding in Southampton & Hampshire. Obtain your tailored access quote today!",
+        "createdAt": "2025-09-12T10:47:50.493Z",
+        "updatedAt": "2026-02-08T11:35:44.941Z",
+        "publishedAt": "2026-02-08T11:35:45.024Z",
+        "image": {
+          "id": 8,
+          "documentId": "u1sgwgg5nul4ofbc3v1yeesd",
+          "name": "13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a.jpg",
+          "alternativeText": "commercial scaffolding",
+          "caption": null,
+          "width": 1600,
+          "height": 900,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa.jpg",
+              "hash": "large_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa",
+              "mime": "image/jpeg",
+              "name": "large_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a.jpg",
+              "path": null,
+              "size": 95.87,
+              "width": 1000,
+              "height": 563,
+              "sizeInBytes": 95869
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa.jpg",
+              "hash": "small_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa",
+              "mime": "image/jpeg",
+              "name": "small_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a.jpg",
+              "path": null,
+              "size": 28.54,
+              "width": 500,
+              "height": 281,
+              "sizeInBytes": 28538
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa.jpg",
+              "hash": "medium_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa",
+              "mime": "image/jpeg",
+              "name": "medium_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a.jpg",
+              "path": null,
+              "size": 57.45,
+              "width": 750,
+              "height": 422,
+              "sizeInBytes": 57452
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa.jpg",
+              "hash": "thumbnail_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa",
+              "mime": "image/jpeg",
+              "name": "thumbnail_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a.jpg",
+              "path": null,
+              "size": 8.51,
+              "width": 245,
+              "height": 138,
+              "sizeInBytes": 8509
+            }
+          },
+          "hash": "13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 163.8,
+          "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa.jpg",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-09-12T10:46:46.359Z",
+          "updatedAt": "2025-09-12T21:15:54.966Z",
+          "publishedAt": "2025-09-12T10:46:46.359Z"
+        },
+        "content": [
+          {
+            "__component": "content.hero",
+            "id": 47,
+            "content": [
+              {
+                "type": "heading",
+                "level": 1,
+                "children": [
+                  {
+                    "text": "Commercial Scaffolding for All Property Types",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Tower Scaffold + Safety Netting delivers expert scaffolding for commercial and industrial properties. From schools and flats to hospitals and tower blocks, we’ve got the scale, training, and compliance your site demands.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "image": {
+              "id": 8,
+              "documentId": "u1sgwgg5nul4ofbc3v1yeesd",
+              "name": "13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a.jpg",
+              "alternativeText": "commercial scaffolding",
+              "caption": null,
+              "width": 1600,
+              "height": 900,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa.jpg",
+                  "hash": "large_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa",
+                  "mime": "image/jpeg",
+                  "name": "large_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a.jpg",
+                  "path": null,
+                  "size": 95.87,
+                  "width": 1000,
+                  "height": 563,
+                  "sizeInBytes": 95869
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa.jpg",
+                  "hash": "small_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa",
+                  "mime": "image/jpeg",
+                  "name": "small_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a.jpg",
+                  "path": null,
+                  "size": 28.54,
+                  "width": 500,
+                  "height": 281,
+                  "sizeInBytes": 28538
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa.jpg",
+                  "hash": "medium_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa",
+                  "mime": "image/jpeg",
+                  "name": "medium_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a.jpg",
+                  "path": null,
+                  "size": 57.45,
+                  "width": 750,
+                  "height": 422,
+                  "sizeInBytes": 57452
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa.jpg",
+                  "hash": "thumbnail_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a.jpg",
+                  "path": null,
+                  "size": 8.51,
+                  "width": 245,
+                  "height": 138,
+                  "sizeInBytes": 8509
+                }
+              },
+              "hash": "13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 163.8,
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_0e66b4f6fa.jpg",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-09-12T10:46:46.359Z",
+              "updatedAt": "2025-09-12T21:15:54.966Z",
+              "publishedAt": "2025-09-12T10:46:46.359Z"
+            }
+          },
+          {
+            "__component": "content.text",
+            "id": 43,
+            "content": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Safe and Cost-Effective Access for Business Sites",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Our commercial scaffolding services include edge protection, Haki staircases, and full access structures — all designed with safety, speed, and budget in mind. We understand the demands of working in live environments and busy construction zones.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Our teams are made up of fully qualified CISRS scaffolders, including Advanced and Part 2 operatives, with years of industry experience across large-scale commercial projects.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "highlight": false,
+            "spacingTop": true,
+            "spacingBottom": true
+          },
+          {
+            "__component": "content.split-content",
+            "id": 51,
+            "content": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "Reliable Scaffolding for High-Use Environments",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Whether it’s a hospital refurbishment, school extension, or residential block upgrade, we’ll deliver a tailored scaffold package that keeps your site safe and operational.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "We pride ourselves on competitive pricing and responsive service — helping your project stay compliant, efficient, and on schedule from start to finish.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "invert": false,
+            "spacingTop": false,
+            "spacingBottom": true,
+            "image": {
+              "id": 29,
+              "documentId": "v8eb0f0dbuw1x2fqvklbs0aw",
+              "name": "Screenshot 2025-09-12 at 10.09.45 pm.png",
+              "alternativeText": "post office with scaffolding",
+              "caption": null,
+              "width": 1496,
+              "height": 1120,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_Screenshot_2025_09_12_at_10_09_45_pm_274dbb6017.png",
+                  "hash": "large_Screenshot_2025_09_12_at_10_09_45_pm_274dbb6017",
+                  "mime": "image/png",
+                  "name": "large_Screenshot 2025-09-12 at 10.09.45 pm.png",
+                  "path": null,
+                  "size": 1695.43,
+                  "width": 1000,
+                  "height": 749,
+                  "sizeInBytes": 1695428
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_Screenshot_2025_09_12_at_10_09_45_pm_274dbb6017.png",
+                  "hash": "small_Screenshot_2025_09_12_at_10_09_45_pm_274dbb6017",
+                  "mime": "image/png",
+                  "name": "small_Screenshot 2025-09-12 at 10.09.45 pm.png",
+                  "path": null,
+                  "size": 451.73,
+                  "width": 500,
+                  "height": 374,
+                  "sizeInBytes": 451726
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_Screenshot_2025_09_12_at_10_09_45_pm_274dbb6017.png",
+                  "hash": "medium_Screenshot_2025_09_12_at_10_09_45_pm_274dbb6017",
+                  "mime": "image/png",
+                  "name": "medium_Screenshot 2025-09-12 at 10.09.45 pm.png",
+                  "path": null,
+                  "size": 979.6,
+                  "width": 750,
+                  "height": 561,
+                  "sizeInBytes": 979598
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_Screenshot_2025_09_12_at_10_09_45_pm_274dbb6017.png",
+                  "hash": "thumbnail_Screenshot_2025_09_12_at_10_09_45_pm_274dbb6017",
+                  "mime": "image/png",
+                  "name": "thumbnail_Screenshot 2025-09-12 at 10.09.45 pm.png",
+                  "path": null,
+                  "size": 84.64,
+                  "width": 208,
+                  "height": 156,
+                  "sizeInBytes": 84639
+                }
+              },
+              "hash": "Screenshot_2025_09_12_at_10_09_45_pm_274dbb6017",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 778.88,
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/Screenshot_2025_09_12_at_10_09_45_pm_274dbb6017.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-09-12T21:10:06.547Z",
+              "updatedAt": "2025-09-12T21:14:06.266Z",
+              "publishedAt": "2025-09-12T21:10:06.547Z"
+            }
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "documentId": "wn26ugxsiynvo77f6ue2t1ru",
+        "name": "Residential & Domestic Scaffolding",
+        "slug": "residential-and-domestic-scaffolding",
+        "title": "Residential Scaffolding | Southampton & Hampshire Homes",
+        "description": "Secure, adaptable home scaffolding across Southampton & Hampshire. Bespoke designs for roofs & extensions. Enquire for your Towers Scaffold & Netting quote.",
+        "createdAt": "2025-09-12T10:52:02.680Z",
+        "updatedAt": "2026-02-08T11:35:38.585Z",
+        "publishedAt": "2026-02-08T11:35:38.658Z",
+        "image": {
+          "id": 13,
+          "documentId": "hs3copi3s5782nezxdr2vfkc",
+          "name": "9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081.jpg",
+          "alternativeText": "residential scaffolding",
+          "caption": null,
+          "width": 1600,
+          "height": 1200,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d.jpg",
+              "hash": "large_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d",
+              "mime": "image/jpeg",
+              "name": "large_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081.jpg",
+              "path": null,
+              "size": 168.23,
+              "width": 1000,
+              "height": 750,
+              "sizeInBytes": 168231
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d.jpg",
+              "hash": "small_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d",
+              "mime": "image/jpeg",
+              "name": "small_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081.jpg",
+              "path": null,
+              "size": 47.81,
+              "width": 500,
+              "height": 375,
+              "sizeInBytes": 47810
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d.jpg",
+              "hash": "medium_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d",
+              "mime": "image/jpeg",
+              "name": "medium_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081.jpg",
+              "path": null,
+              "size": 99.85,
+              "width": 750,
+              "height": 563,
+              "sizeInBytes": 99852
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d.jpg",
+              "hash": "thumbnail_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d",
+              "mime": "image/jpeg",
+              "name": "thumbnail_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081.jpg",
+              "path": null,
+              "size": 9.63,
+              "width": 208,
+              "height": 156,
+              "sizeInBytes": 9632
+            }
+          },
+          "hash": "9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 310.35,
+          "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d.jpg",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-09-12T10:51:01.044Z",
+          "updatedAt": "2025-09-12T21:15:26.258Z",
+          "publishedAt": "2025-09-12T10:51:01.045Z"
+        },
+        "content": [
+          {
+            "__component": "content.hero",
+            "id": 46,
+            "content": [
+              {
+                "type": "heading",
+                "level": 1,
+                "children": [
+                  {
+                    "text": "Residential Scaffolding Made Simple",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Tower Scaffold + Safety Netting has years of experience supporting homeowners with safe, low-cost scaffold solutions. Whether you’re renovating, re-roofing, or extending — we’ll get you set up quickly and securely.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "image": {
+              "id": 13,
+              "documentId": "hs3copi3s5782nezxdr2vfkc",
+              "name": "9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081.jpg",
+              "alternativeText": "residential scaffolding",
+              "caption": null,
+              "width": 1600,
+              "height": 1200,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d.jpg",
+                  "hash": "large_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d",
+                  "mime": "image/jpeg",
+                  "name": "large_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081.jpg",
+                  "path": null,
+                  "size": 168.23,
+                  "width": 1000,
+                  "height": 750,
+                  "sizeInBytes": 168231
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d.jpg",
+                  "hash": "small_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d",
+                  "mime": "image/jpeg",
+                  "name": "small_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081.jpg",
+                  "path": null,
+                  "size": 47.81,
+                  "width": 500,
+                  "height": 375,
+                  "sizeInBytes": 47810
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d.jpg",
+                  "hash": "medium_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d",
+                  "mime": "image/jpeg",
+                  "name": "medium_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081.jpg",
+                  "path": null,
+                  "size": 99.85,
+                  "width": 750,
+                  "height": 563,
+                  "sizeInBytes": 99852
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d.jpg",
+                  "hash": "thumbnail_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081.jpg",
+                  "path": null,
+                  "size": 9.63,
+                  "width": 208,
+                  "height": 156,
+                  "sizeInBytes": 9632
+                }
+              },
+              "hash": "9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 310.35,
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d.jpg",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-09-12T10:51:01.044Z",
+              "updatedAt": "2025-09-12T21:15:26.258Z",
+              "publishedAt": "2025-09-12T10:51:01.045Z"
+            }
+          },
+          {
+            "__component": "content.text",
+            "id": 42,
+            "content": [
+              {
+                "type": "heading",
+                "level": 2,
+                "children": [
+                  {
+                    "text": "Flexible Scaffold Hire for Every Home",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "We know that domestic scaffolding needs to be safe, affordable, and flexible. That’s why we offer extended hire options with no hidden costs and tailored designs for your property.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Our team has experience working with bungalows, terraces, and properties with limited access — including over conservatories or near neighbouring walls.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "highlight": false,
+            "spacingTop": true,
+            "spacingBottom": true
+          },
+          {
+            "__component": "content.split-content",
+            "id": 50,
+            "content": [
+              {
+                "type": "heading",
+                "level": 3,
+                "children": [
+                  {
+                    "text": "Trusted by Homeowners Across the Region",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "From chimney repairs to loft conversions, we provide safe, stable access for all types of domestic work. We’ll work around your schedule and ensure your home remains safe during construction.",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Whatever your project, you can count on us for a friendly, professional service that makes home improvements easier and safer.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ],
+            "invert": false,
+            "spacingTop": false,
+            "spacingBottom": true,
+            "image": {
+              "id": 30,
+              "documentId": "q5rvm20g5j5tb5g79h50ejce",
+              "name": "Screenshot 2025-09-12 at 10.10.55 pm.png",
+              "alternativeText": "house with scaffolding",
+              "caption": null,
+              "width": 1494,
+              "height": 1122,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_Screenshot_2025_09_12_at_10_10_55_pm_f7d5310c10.png",
+                  "hash": "large_Screenshot_2025_09_12_at_10_10_55_pm_f7d5310c10",
+                  "mime": "image/png",
+                  "name": "large_Screenshot 2025-09-12 at 10.10.55 pm.png",
+                  "path": null,
+                  "size": 1838.38,
+                  "width": 1000,
+                  "height": 751,
+                  "sizeInBytes": 1838384
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_Screenshot_2025_09_12_at_10_10_55_pm_f7d5310c10.png",
+                  "hash": "small_Screenshot_2025_09_12_at_10_10_55_pm_f7d5310c10",
+                  "mime": "image/png",
+                  "name": "small_Screenshot 2025-09-12 at 10.10.55 pm.png",
+                  "path": null,
+                  "size": 470.82,
+                  "width": 500,
+                  "height": 376,
+                  "sizeInBytes": 470820
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_Screenshot_2025_09_12_at_10_10_55_pm_f7d5310c10.png",
+                  "hash": "medium_Screenshot_2025_09_12_at_10_10_55_pm_f7d5310c10",
+                  "mime": "image/png",
+                  "name": "medium_Screenshot 2025-09-12 at 10.10.55 pm.png",
+                  "path": null,
+                  "size": 1046.32,
+                  "width": 750,
+                  "height": 563,
+                  "sizeInBytes": 1046322
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_Screenshot_2025_09_12_at_10_10_55_pm_f7d5310c10.png",
+                  "hash": "thumbnail_Screenshot_2025_09_12_at_10_10_55_pm_f7d5310c10",
+                  "mime": "image/png",
+                  "name": "thumbnail_Screenshot 2025-09-12 at 10.10.55 pm.png",
+                  "path": null,
+                  "size": 82.15,
+                  "width": 208,
+                  "height": 156,
+                  "sizeInBytes": 82145
+                }
+              },
+              "hash": "Screenshot_2025_09_12_at_10_10_55_pm_f7d5310c10",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 865.28,
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/Screenshot_2025_09_12_at_10_10_55_pm_f7d5310c10.png",
+              "previewUrl": null,
+              "provider": "strapi-provider-upload-strapi-cloud",
+              "provider_metadata": null,
+              "createdAt": "2025-09-12T21:11:15.388Z",
+              "updatedAt": "2025-09-12T21:13:57.571Z",
+              "publishedAt": "2025-09-12T21:11:15.389Z"
+            }
+          }
+        ]
+      }
+    ],
+    "content": [
+      {
+        "__component": "content.hero",
+        "id": 44,
+        "content": [
+          {
+            "type": "heading",
+            "level": 1,
+            "children": [
+              {
+                "text": "Our Scaffolding & Safety Services",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "At Tower Scaffold + Safety Netting, we offer a full range of professional services — from scaffold design to safety netting — tailored to suit every project type and size.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "image": {
+          "id": 23,
+          "documentId": "mdgryoo6eg5p6x7rdq1qk40h",
+          "name": "Screenshot 2025-09-12 at 10.01.17 pm.png",
+          "alternativeText": "construction site",
+          "caption": null,
+          "width": 3196,
+          "height": 1792,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_Screenshot_2025_09_12_at_10_01_17_pm_6f4755e4f3.png",
+              "hash": "large_Screenshot_2025_09_12_at_10_01_17_pm_6f4755e4f3",
+              "mime": "image/png",
+              "name": "large_Screenshot 2025-09-12 at 10.01.17 pm.png",
+              "path": null,
+              "size": 1201.9,
+              "width": 1000,
+              "height": 561,
+              "sizeInBytes": 1201903
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_Screenshot_2025_09_12_at_10_01_17_pm_6f4755e4f3.png",
+              "hash": "small_Screenshot_2025_09_12_at_10_01_17_pm_6f4755e4f3",
+              "mime": "image/png",
+              "name": "small_Screenshot 2025-09-12 at 10.01.17 pm.png",
+              "path": null,
+              "size": 317.14,
+              "width": 500,
+              "height": 280,
+              "sizeInBytes": 317137
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_Screenshot_2025_09_12_at_10_01_17_pm_6f4755e4f3.png",
+              "hash": "medium_Screenshot_2025_09_12_at_10_01_17_pm_6f4755e4f3",
+              "mime": "image/png",
+              "name": "medium_Screenshot 2025-09-12 at 10.01.17 pm.png",
+              "path": null,
+              "size": 694.15,
+              "width": 750,
+              "height": 421,
+              "sizeInBytes": 694150
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_Screenshot_2025_09_12_at_10_01_17_pm_6f4755e4f3.png",
+              "hash": "thumbnail_Screenshot_2025_09_12_at_10_01_17_pm_6f4755e4f3",
+              "mime": "image/png",
+              "name": "thumbnail_Screenshot 2025-09-12 at 10.01.17 pm.png",
+              "path": null,
+              "size": 81.24,
+              "width": 245,
+              "height": 137,
+              "sizeInBytes": 81239
+            }
+          },
+          "hash": "Screenshot_2025_09_12_at_10_01_17_pm_6f4755e4f3",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 2273.9,
+          "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/Screenshot_2025_09_12_at_10_01_17_pm_6f4755e4f3.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2025-09-12T21:01:43.079Z",
+          "updatedAt": "2025-09-12T21:14:42.676Z",
+          "publishedAt": "2025-09-12T21:01:43.080Z"
+        }
+      }
+    ]
+  },
+  "meta": {}
+}

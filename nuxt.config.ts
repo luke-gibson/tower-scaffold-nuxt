@@ -5,24 +5,14 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
     '@nuxt/image',
     '@nuxt/fonts',
-    '@nuxtjs/strapi',
     '@nuxt/scripts',
     '@nuxtjs/sitemap',
     '@nuxtjs/robots',
   ],
   runtimeConfig: {
     public: {
-      strapiUrl: process.env.STRAPI_URL,
       siteUrl: 'https://towerscaffold-netting.co.uk',
     }
-  },
-  strapi: {
-    url: process.env.STRAPI_URL,
-    prefix: '/api',
-    admin: '/admin',
-    version: 'v5',
-    cookie: {},
-    cookieName: 'strapi_jwt'
   },
   site: { 
     url: 'https://towerscaffold-netting.co.uk',

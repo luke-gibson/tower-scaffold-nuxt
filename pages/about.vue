@@ -3,8 +3,8 @@
   const config = useRuntimeConfig();
   const route = useRoute()
 
-  const { data } = await useAsyncData<AboutData>('about', () => 
-    $fetch(`${config.public.strapiUrl}/api/about?pLevel`)
+  const { data } = await useAsyncData<AboutData>('about', () =>
+    $fetch('/api/about')
   );
 
   useHead({
