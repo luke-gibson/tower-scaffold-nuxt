@@ -1,3 +1,64 @@
+<script setup lang="ts">
+useHead({
+  script: [
+    {
+      type: 'application/ld+json',
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'LocalBusiness',
+        '@id': 'https://towerscaffold-netting.co.uk/#business',
+        name: 'Tower Scaffold + Safety Netting',
+        url: 'https://towerscaffold-netting.co.uk',
+        telephone: '+447976392257',
+        email: 'info@towerscaffold-netting.co.uk',
+        description: 'Expert scaffolding and FASET-qualified safety netting across Hampshire and West Sussex. Over 20 years of experience, fully insured and compliant.',
+        priceRange: '££',
+        image: 'https://safe-broccoli-94775bb690.media.strapiapp.com/tower_scaffolding_home_banner_388334a539_39de340232.webp',
+        logo: 'https://towerscaffold-netting.co.uk/favicon.png',
+        address: {
+          '@type': 'PostalAddress',
+          addressRegion: 'Hampshire',
+          addressCountry: 'GB',
+        },
+        areaServed: [
+          { '@type': 'City', name: 'Portsmouth' },
+          { '@type': 'City', name: 'Southampton' },
+          { '@type': 'City', name: 'Fareham' },
+          { '@type': 'City', name: 'Gosport' },
+          { '@type': 'City', name: 'Waterlooville' },
+          { '@type': 'City', name: 'Havant' },
+          { '@type': 'City', name: 'Chichester' },
+          { '@type': 'City', name: 'Winchester' },
+          { '@type': 'City', name: 'Petersfield' },
+          { '@type': 'City', name: 'Basingstoke' },
+        ],
+        hasOfferCatalog: {
+          '@type': 'OfferCatalog',
+          name: 'Scaffolding Services',
+          itemListElement: [
+            { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Residential Scaffolding' } },
+            { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Commercial & Industrial Scaffolding' } },
+            { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Safety Netting Installation' } },
+            { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Scaffold Design' } },
+            { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Haki Staircase Hire' } },
+            { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Temporary Roof Scaffolding' } },
+          ],
+        },
+        sameAs: [],
+        openingHoursSpecification: [
+          {
+            '@type': 'OpeningHoursSpecification',
+            dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+            opens: '07:30',
+            closes: '17:30',
+          },
+        ],
+      }),
+    },
+  ],
+})
+</script>
+
 <template>
     <LayoutHeader />
     <main>
@@ -7,9 +68,10 @@
 </template>
 
 <style lang="scss">
-* {
+*, *::before, *::after {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 html {

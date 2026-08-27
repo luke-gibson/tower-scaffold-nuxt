@@ -5,7 +5,7 @@
     "name": "Home",
     "slug": "home",
     "description": "Tower Scaffolding + Safety Netting provides expert scaffolding and safety netting solutions in Hampshire. Safe, reliable, and compliant.",
-    "title": "Residential & Commercial Scaffolding Southampton | Tower Scaffolding + Safety Netting",
+    "title": "Scaffolding Hampshire & West Sussex | Tower Scaffold + Safety Netting",
     "createdAt": "2025-09-12T10:44:53.302Z",
     "updatedAt": "2026-02-08T11:26:08.616Z",
     "publishedAt": "2026-02-08T11:26:08.798Z",
@@ -2184,6 +2184,380 @@
             "children": [
               {
                 "text": "We cater for simple house refurbishments and roof repairs to bespoke scaffolding requirements for high rise apartments, large factories or industrial maintenance to suit your needs.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "highlight": true,
+        "spacingTop": false,
+        "spacingBottom": false
+      },
+      {
+        "__component": "content.text",
+        "id": 200,
+        "content": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "text": "WHY CHOOSE TOWER SCAFFOLD + SAFETY NETTING?",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "With over 20 years of experience in the scaffolding industry, Tower Scaffold + Safety Netting has built a reputation for quality, reliability and fair pricing across Hampshire, Sussex and Surrey. Whether you need a simple domestic scaffold for a roof repair or a complex commercial structure for a large industrial project, our team has the expertise to deliver.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "FASET-qualified safety netting installation to BS EN standards",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Full service from initial concept through to completion",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Detailed drawings and safety documentation provided for every project",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Competitive rates for domestic, commercial and industrial contracts",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Rapid mobilisation — we work around your schedule",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Fully insured and health & safety compliant",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "highlight": false,
+        "spacingTop": true,
+        "spacingBottom": true
+      },
+      {
+        "__component": "content.text",
+        "id": 201,
+        "content": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "text": "OUR SCAFFOLDING SERVICES",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "We offer a comprehensive range of scaffolding and access solutions. From residential homes to large-scale industrial sites, every project receives the same high standard of workmanship and safety.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Residential & Domestic Scaffolding — safe, tidy and cost-effective solutions for homeowners",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Commercial & Industrial Scaffolding — large-scale access structures for businesses and contractors",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Safety Netting — FASET-qualified fall protection installed to British Standards",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Temporary Roof Scaffolding — weather-tight temporary roofs to keep your project on track",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Scaffold Design — bespoke structural designs for complex or unusual builds",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Haki Staircase Hire — rapid, secure temporary stair access for multi-level sites",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "highlight": true,
+        "spacingTop": false,
+        "spacingBottom": false
+      },
+      {
+        "__component": "content.text",
+        "id": 202,
+        "content": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "text": "AREAS WE COVER",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Tower Scaffold + Safety Netting operates throughout Hampshire and the surrounding counties. Our local knowledge and fast response times make us the preferred scaffolding contractor across the region. We regularly work in:",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Portsmouth & Southsea",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Southampton",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Waterlooville",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Havant",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Fareham",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Gosport",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Chichester",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Winchester",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Petersfield",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Basingstoke",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If you're unsure whether we cover your area, don't hesitate to get in touch — we're often able to accommodate projects outside our core coverage zone.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "highlight": false,
+        "spacingTop": true,
+        "spacingBottom": true
+      },
+      {
+        "__component": "content.text",
+        "id": 203,
+        "content": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "text": "GET A FREE SCAFFOLDING QUOTE",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Ready to get started? Contact our team today for a free, no-obligation quote. We respond to all enquiries within 24 hours and can usually arrange a site visit at short notice.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Call us on ",
+                "type": "text"
+              },
+              {
+                "url": "tel:07976392257",
+                "type": "link",
+                "children": [
+                  {
+                    "text": "07976 392257",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "text": " or use our ",
+                "type": "text"
+              },
+              {
+                "url": "/contact",
+                "type": "link",
+                "children": [
+                  {
+                    "text": "contact form",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "text": " to send us your project details.",
                 "type": "text"
               }
             ]

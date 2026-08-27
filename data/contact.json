@@ -227,53 +227,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "Southampton: ",
-                "type": "text"
-              },
-              {
-                "url": "tel:02380308887 ",
-                "type": "link",
-                "children": [
-                  {
-                    "text": "02380 308887 ",
-                    "type": "text"
-                  }
-                ]
-              },
-              {
                 "text": "",
-                "type": "text"
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "Portsmouth: ",
-                "type": "text"
-              },
-              {
-                "url": "tel:02392261007",
-                "type": "link",
-                "children": [
-                  {
-                    "text": "02392 261007",
-                    "type": "text"
-                  }
-                ]
-              },
-              {
-                "text": "",
-                "type": "text"
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": "Mobile: ",
                 "type": "text"
               },
               {

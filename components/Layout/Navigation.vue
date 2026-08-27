@@ -6,7 +6,7 @@
 </script>
 
 <template>
-    <nav class="c-nav" :class="{ 'open-nav': isOpen }">
+    <nav class="c-nav" :class="{ 'open-nav': isOpen }" aria-label="Main">
       <NuxtLink
         class="c-nav__link"
         :class="{ active: route.path === '/' }"

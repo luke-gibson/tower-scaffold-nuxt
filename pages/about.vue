@@ -22,6 +22,7 @@ useSeoMeta({
   description: data.value?.data.description || 'Default description',
   ogDescription: data.value?.data.description || 'Default description',
   ogImage: data.value?.data.image?.formats?.large?.url || data.value?.data.image?.url || 'https://example.com/default-image.png',
+  ogType: 'website',
   twitterCard: 'summary_large_image',
 });
 </script>

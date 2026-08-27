@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "name": "Waterlooville",
+      "slug": "waterlooville",
+      "county": "Hampshire",
+      "title": "Scaffolding in Waterlooville, Hampshire",
+      "description": "Expert scaffolding services in Waterlooville. Tower Scaffold + Safety Netting covers all of Hampshire."
+    },
+    {
+      "name": "Havant",
+      "slug": "havant",
+      "county": "Hampshire",
+      "title": "Scaffolding in Havant, Hampshire",
+      "description": "Expert scaffolding services in Havant. Tower Scaffold + Safety Netting covers all of Hampshire."
+    },
+    {
+      "name": "Portsmouth",
+      "slug": "portsmouth",
+      "county": "Hampshire",
+      "title": "Scaffolding in Portsmouth, Hampshire",
+      "description": "Expert scaffolding services in Portsmouth. Tower Scaffold + Safety Netting covers all of Hampshire."
+    },
+    {
+      "name": "Fareham",
+      "slug": "fareham",
+      "county": "Hampshire",
+      "title": "Scaffolding in Fareham, Hampshire",
+      "description": "Expert scaffolding services in Fareham. Tower Scaffold + Safety Netting covers all of Hampshire."
+    },
+    {
+      "name": "Gosport",
+      "slug": "gosport",
+      "county": "Hampshire",
+      "title": "Scaffolding in Gosport, Hampshire",
+      "description": "Expert scaffolding services in Gosport. Tower Scaffold + Safety Netting covers all of Hampshire."
+    },
+    {
+      "name": "Southampton",
+      "slug": "southampton",
+      "county": "Hampshire",
+      "title": "Scaffolding in Southampton, Hampshire",
+      "description": "Expert scaffolding services in Southampton. Tower Scaffold + Safety Netting covers all of Hampshire."
+    },
+    {
+      "name": "Chichester",
+      "slug": "chichester",
+      "county": "West Sussex",
+      "title": "Scaffolding in Chichester, West Sussex",
+      "description": "Expert scaffolding services in Chichester. Tower Scaffold + Safety Netting covers all of West Sussex."
+    },
+    {
+      "name": "Winchester",
+      "slug": "winchester",
+      "county": "Hampshire",
+      "title": "Scaffolding in Winchester, Hampshire",
+      "description": "Expert scaffolding services in Winchester. Tower Scaffold + Safety Netting covers all of Hampshire."
+    },
+    {
+      "name": "Petersfield",
+      "slug": "petersfield",
+      "county": "Hampshire",
+      "title": "Scaffolding in Petersfield, Hampshire",
+      "description": "Expert scaffolding services in Petersfield. Tower Scaffold + Safety Netting covers all of Hampshire."
+    },
+    {
+      "name": "Basingstoke",
+      "slug": "basingstoke",
+      "county": "Hampshire",
+      "title": "Scaffolding in Basingstoke, Hampshire",
+      "description": "Expert scaffolding services in Basingstoke. Tower Scaffold + Safety Netting covers all of Hampshire."
+    }
+  ],
+  "meta": {}
+}

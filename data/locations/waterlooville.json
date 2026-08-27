@@ -1,0 +1,300 @@
+{
+  "data": {
+    "name": "Waterlooville",
+    "slug": "waterlooville",
+    "title": "Scaffolding Waterlooville | Tower Scaffold + Safety Netting",
+    "description": "Looking for scaffolding in Waterlooville? Tower Scaffold + Safety Netting provides expert residential, commercial and industrial scaffolding across Waterlooville and Hampshire. Get a free quote today.",
+    "county": "Hampshire",
+    "nearby": "Portsmouth, Havant and Fareham",
+    "content": [
+      {
+        "__component": "content.text",
+        "id": 1,
+        "content": [
+          {
+            "type": "heading",
+            "level": 1,
+            "children": [
+              {
+                "text": "Scaffolding in Waterlooville, Hampshire",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Tower Scaffold + Safety Netting is your trusted local scaffolding contractor in Waterlooville. With over 20 years of experience delivering safe, reliable and competitively priced scaffolding solutions, we work with homeowners, builders and businesses throughout Waterlooville and the surrounding Hampshire area.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Whether you need a simple domestic scaffold for a roof repair, a full commercial structure for a new build, or specialist safety netting for a construction site in Waterlooville, our experienced team can help. We are FASET-qualified for safety netting installation and provide full drawings and safety documentation as standard.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "highlight": false,
+        "spacingTop": true,
+        "spacingBottom": true
+      },
+      {
+        "__component": "content.text",
+        "id": 2,
+        "content": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "text": "Scaffolding Services in Waterlooville",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "We provide the full range of scaffolding and access solutions to customers in Waterlooville:",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Residential & Domestic Scaffolding — extensions, re-roofing, chimney repairs, fascia & guttering work",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Commercial & Industrial Scaffolding — new builds, offices, warehouses and industrial maintenance",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Safety Netting — FASET-qualified fall protection installed to BS EN 1263 standards",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Temporary Roof Scaffolding — keep your project weather-tight during roof repairs or replacement",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Scaffold Design — bespoke structural designs with full engineering drawings",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Haki Staircase Hire — safe and fast temporary vertical access for multi-level sites",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "highlight": true,
+        "spacingTop": false,
+        "spacingBottom": false
+      },
+      {
+        "__component": "content.text",
+        "id": 3,
+        "content": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "text": "Why Choose Us for Scaffolding in Waterlooville?",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Over 20 years of experience in the scaffolding industry",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "FASET-qualified safety netting team — meeting BS EN standards",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Full drawings and safety documentation provided for every project",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Competitive, transparent pricing with no hidden costs",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Fast mobilisation and flexible scheduling around your project",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Fully insured and health & safety compliant",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Local knowledge of Waterlooville and the wider Hampshire area",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "We also serve nearby areas including Portsmouth, Havant and Fareham, so if your project spans multiple locations, we have you covered.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "highlight": false,
+        "spacingTop": true,
+        "spacingBottom": true
+      },
+      {
+        "__component": "content.text",
+        "id": 4,
+        "content": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "text": "Get a Free Scaffolding Quote in Waterlooville",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Contact our team today for a free, no-obligation scaffolding quote in Waterlooville. We respond to all enquiries within 24 hours and can usually arrange a site visit at short notice.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Call us on ",
+                "type": "text"
+              },
+              {
+                "url": "tel:07976392257",
+                "type": "link",
+                "children": [
+                  {
+                    "text": "07976 392257",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "text": " or use our ",
+                "type": "text"
+              },
+              {
+                "url": "/contact",
+                "type": "link",
+                "children": [
+                  {
+                    "text": "contact form",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "text": ".",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "highlight": true,
+        "spacingTop": false,
+        "spacingBottom": false
+      }
+    ]
+  },
+  "meta": {}
+}
