@@ -40,9 +40,14 @@ export default defineNuxtConfig({
       ]
     }
   },
-  nitro: {
-    prerender: {
-      ignore: ['/_ipx/'],
+  image: {
+    densities: [1],
+    screens: {
+      xs: 320,
+      sm: 640,
+      md: 768,
+      lg: 1024,
+      xl: 1280,
     },
   },
   // @ts-ignore
