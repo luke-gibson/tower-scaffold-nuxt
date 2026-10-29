@@ -37,7 +37,7 @@ useSeoMeta({
           :alt="heroImage.alternativeText || 'Tower Scaffold + Safety Netting'"
           :width="heroImage.formats?.large?.width || heroImage.width"
           :height="heroImage.formats?.large?.height || heroImage.height"
-          format="avif,webp,jpg"
+          format="webp,jpg"
           class="c-home-hero__image"
         />
       </div>
@@ -90,7 +90,7 @@ useSeoMeta({
             alt="Tower Scaffold + Safety Netting scaffolding project"
             width="1000"
             height="563"
-            format="avif,webp,jpg"
+            format="webp,jpg"
             class="c-home-intro__img"
           />
           <div class="c-home-intro__img-accent" aria-hidden="true" />
@@ -118,7 +118,7 @@ useSeoMeta({
                 :alt="service.image.alternativeText || service.name"
                 :width="service.image.formats?.medium?.width || service.image.width"
                 :height="service.image.formats?.medium?.height || service.image.height"
-                format="avif,webp,jpg"
+                format="webp,jpg"
                 class="c-svc-card__img"
               />
             </div>
@@ -141,7 +141,7 @@ useSeoMeta({
             alt="Residential scaffolding project"
             width="1000"
             height="750"
-            format="avif,webp,jpg"
+            format="webp,jpg"
             class="c-home-why__img"
           />
         </div>

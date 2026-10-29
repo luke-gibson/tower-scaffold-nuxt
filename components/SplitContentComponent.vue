@@ -24,7 +24,7 @@ const transformedUrl = computed(() => useCloudinary(props.image?.formats?.medium
           :alt="image.alternativeText || ''"
           :width="image.formats?.medium?.width || image.width"
           :height="image.formats?.medium?.height || image.height"
-          format="avif,webp,jpg"
+          format="webp,jpg"
           class="c-split__img"
         />
       </div>

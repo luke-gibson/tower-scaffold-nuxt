@@ -19,7 +19,7 @@ const transformedUrl = computed(() => useCloudinary(props.image?.url) || props.i
         :alt="image.alternativeText || ''"
         :width="image.formats?.large?.width || image.width"
         :height="image.formats?.large?.height || image.height"
-        format="avif,webp,jpg"
+        format="webp,jpg"
         class="c-hero__picture"
       />
     </div>

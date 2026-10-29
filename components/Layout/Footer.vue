@@ -10,7 +10,7 @@
         alt=""
         width="960"
         height="540"
-        format="avif,webp,jpg"
+        format="webp,jpg"
       />
     </div>
 

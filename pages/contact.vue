@@ -35,7 +35,7 @@ useSeoMeta({
           alt="Tower Scaffold + Safety Netting"
           width="1000"
           height="562"
-          format="avif,webp,jpg"
+          format="webp,jpg"
           class="c-contact-hero__img"
         />
       </div>

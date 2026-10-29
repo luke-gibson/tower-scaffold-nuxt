@@ -55,7 +55,7 @@ useSeoMeta({
                 :alt="service.image.alternativeText || service.name"
                 :width="service.image.formats?.medium?.width || service.image.width"
                 :height="service.image.formats?.medium?.height || service.image.height"
-                format="avif,webp,jpg"
+                format="webp,jpg"
                 class="c-svc-card__img"
               />
             </div>
