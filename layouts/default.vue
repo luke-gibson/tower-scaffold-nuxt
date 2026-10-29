@@ -13,7 +13,7 @@ useHead({
         email: 'info@towerscaffold-netting.co.uk',
         description: 'Expert scaffolding and FASET-qualified safety netting across Hampshire and West Sussex. Over 20 years of experience, fully insured and compliant.',
         priceRange: '££',
-        image: 'https://safe-broccoli-94775bb690.media.strapiapp.com/tower_scaffolding_home_banner_388334a539_39de340232.webp',
+        image: 'https://towerscaffold-netting.co.uk/images/PHOTO-2025-03-17-09-02-45.jpg',
         logo: 'https://towerscaffold-netting.co.uk/favicon.png',
         address: {
           '@type': 'PostalAddress',
