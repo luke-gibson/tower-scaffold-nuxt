@@ -20,7 +20,7 @@
       "formats": {
         "small": {
           "ext": ".jpg",
-          "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_large_logo_blue_background_66b9d3a791_72b187cc5e.jpg",
+          "url": "/images/logo.svg",
           "hash": "small_large_logo_blue_background_66b9d3a791_72b187cc5e",
           "mime": "image/jpeg",
           "name": "small_large_logo_blue_background_66b9d3a791.jpg",
@@ -32,7 +32,7 @@
         },
         "medium": {
           "ext": ".jpg",
-          "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_large_logo_blue_background_66b9d3a791_72b187cc5e.jpg",
+          "url": "/images/logo.svg",
           "hash": "medium_large_logo_blue_background_66b9d3a791_72b187cc5e",
           "mime": "image/jpeg",
           "name": "medium_large_logo_blue_background_66b9d3a791.jpg",
@@ -44,7 +44,7 @@
         },
         "thumbnail": {
           "ext": ".jpg",
-          "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_large_logo_blue_background_66b9d3a791_72b187cc5e.jpg",
+          "url": "/images/logo.svg",
           "hash": "thumbnail_large_logo_blue_background_66b9d3a791_72b187cc5e",
           "mime": "image/jpeg",
           "name": "thumbnail_large_logo_blue_background_66b9d3a791.jpg",
@@ -59,7 +59,7 @@
       "ext": ".jpg",
       "mime": "image/jpeg",
       "size": 35.85,
-      "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_logo_blue_background_66b9d3a791_72b187cc5e.jpg",
+      "url": "/images/logo.svg",
       "previewUrl": null,
       "provider": "strapi-provider-upload-strapi-cloud",
       "provider_metadata": null,
@@ -103,7 +103,7 @@
           "formats": {
             "large": {
               "ext": ".jpg",
-              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_e17f6c9f40.jpg",
+              "url": "/images/PHOTO-2025-03-17-09-02-45.jpg",
               "hash": "large_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_e17f6c9f40",
               "mime": "image/jpeg",
               "name": "large_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a.jpg",
@@ -115,7 +115,7 @@
             },
             "small": {
               "ext": ".jpg",
-              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_e17f6c9f40.jpg",
+              "url": "/images/PHOTO-2025-03-17-09-02-45.jpg",
               "hash": "small_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_e17f6c9f40",
               "mime": "image/jpeg",
               "name": "small_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a.jpg",
@@ -127,7 +127,7 @@
             },
             "medium": {
               "ext": ".jpg",
-              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_e17f6c9f40.jpg",
+              "url": "/images/PHOTO-2025-03-17-09-02-45.jpg",
               "hash": "medium_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_e17f6c9f40",
               "mime": "image/jpeg",
               "name": "medium_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a.jpg",
@@ -139,7 +139,7 @@
             },
             "thumbnail": {
               "ext": ".jpg",
-              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_e17f6c9f40.jpg",
+              "url": "/images/PHOTO-2025-03-17-09-02-45.jpg",
               "hash": "thumbnail_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_e17f6c9f40",
               "mime": "image/jpeg",
               "name": "thumbnail_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a.jpg",
@@ -154,7 +154,7 @@
           "ext": ".jpg",
           "mime": "image/jpeg",
           "size": 163.8,
-          "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_e17f6c9f40.jpg",
+          "url": "/images/PHOTO-2025-03-17-09-02-45.jpg",
           "previewUrl": null,
           "provider": "strapi-provider-upload-strapi-cloud",
           "provider_metadata": null,
@@ -256,7 +256,7 @@
           "formats": {
             "large": {
               "ext": ".png",
-              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_Screenshot_2025_09_12_at_9_58_50_pm_cbb8fc3a2d.png",
+              "url": "/images/PHOTO-2025-03-17-09-02-49.jpg",
               "hash": "large_Screenshot_2025_09_12_at_9_58_50_pm_cbb8fc3a2d",
               "mime": "image/png",
               "name": "large_Screenshot 2025-09-12 at 9.58.50 pm.png",
@@ -268,7 +268,7 @@
             },
             "small": {
               "ext": ".png",
-              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_Screenshot_2025_09_12_at_9_58_50_pm_cbb8fc3a2d.png",
+              "url": "/images/PHOTO-2025-03-17-09-02-49.jpg",
               "hash": "small_Screenshot_2025_09_12_at_9_58_50_pm_cbb8fc3a2d",
               "mime": "image/png",
               "name": "small_Screenshot 2025-09-12 at 9.58.50 pm.png",
@@ -280,7 +280,7 @@
             },
             "medium": {
               "ext": ".png",
-              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_Screenshot_2025_09_12_at_9_58_50_pm_cbb8fc3a2d.png",
+              "url": "/images/PHOTO-2025-03-17-09-02-49.jpg",
               "hash": "medium_Screenshot_2025_09_12_at_9_58_50_pm_cbb8fc3a2d",
               "mime": "image/png",
               "name": "medium_Screenshot 2025-09-12 at 9.58.50 pm.png",
@@ -292,7 +292,7 @@
             },
             "thumbnail": {
               "ext": ".png",
-              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_Screenshot_2025_09_12_at_9_58_50_pm_cbb8fc3a2d.png",
+              "url": "/images/PHOTO-2025-03-17-09-02-49.jpg",
               "hash": "thumbnail_Screenshot_2025_09_12_at_9_58_50_pm_cbb8fc3a2d",
               "mime": "image/png",
               "name": "thumbnail_Screenshot 2025-09-12 at 9.58.50 pm.png",
@@ -307,7 +307,7 @@
           "ext": ".png",
           "mime": "image/png",
           "size": 858.63,
-          "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/Screenshot_2025_09_12_at_9_58_50_pm_cbb8fc3a2d.png",
+          "url": "/images/PHOTO-2025-03-17-09-02-49.jpg",
           "previewUrl": null,
           "provider": "strapi-provider-upload-strapi-cloud",
           "provider_metadata": null,
@@ -354,7 +354,7 @@
           "formats": {
             "large": {
               "ext": ".jpg",
-              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/large_Safety_Netting_a58e64fa17_648935a590.jpg",
+              "url": "/images/PHOTO-2025-03-17-09-02-48-2.jpg",
               "hash": "large_Safety_Netting_a58e64fa17_648935a590",
               "mime": "image/jpeg",
               "name": "large_Safety_Netting_a58e64fa17.jpg",
@@ -366,7 +366,7 @@
             },
             "small": {
               "ext": ".jpg",
-              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/small_Safety_Netting_a58e64fa17_648935a590.jpg",
+              "url": "/images/PHOTO-2025-03-17-09-02-48-2.jpg",
               "hash": "small_Safety_Netting_a58e64fa17_648935a590",
               "mime": "image/jpeg",
               "name": "small_Safety_Netting_a58e64fa17.jpg",
@@ -378,7 +378,7 @@
             },
             "medium": {
               "ext": ".jpg",
-              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/medium_Safety_Netting_a58e64fa17_648935a590.jpg",
+              "url": "/images/PHOTO-2025-03-17-09-02-48-2.jpg",
               "hash": "medium_Safety_Netting_a58e64fa17_648935a590",
               "mime": "image/jpeg",
               "name": "medium_Safety_Netting_a58e64fa17.jpg",
@@ -390,7 +390,7 @@
             },
             "thumbnail": {
               "ext": ".jpg",
-              "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/thumbnail_Safety_Netting_a58e64fa17_648935a590.jpg",
+              "url": "/images/PHOTO-2025-03-17-09-02-48-2.jpg",
               "hash": "thumbnail_Safety_Netting_a58e64fa17_648935a590",
               "mime": "image/jpeg",
               "name": "thumbnail_Safety_Netting_a58e64fa17.jpg",
@@ -405,7 +405,7 @@
           "ext": ".jpg",
           "mime": "image/jpeg",
           "size": 120.52,
-          "url": "https://safe-broccoli-94775bb690.media.strapiapp.com/Safety_Netting_a58e64fa17_648935a590.jpg",
+          "url": "/images/PHOTO-2025-03-17-09-02-48-2.jpg",
           "previewUrl": null,
           "provider": "strapi-provider-upload-strapi-cloud",
           "provider_metadata": null,

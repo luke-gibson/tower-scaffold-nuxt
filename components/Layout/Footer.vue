@@ -6,7 +6,7 @@
   <footer class="c-footer">
     <div class="c-footer__bg-image" aria-hidden="true">
       <NuxtPicture
-        src="https://safe-broccoli-94775bb690.media.strapiapp.com/tower_scaffolding_home_banner_388334a539_39de340232.webp"
+        src="/images/PHOTO-2025-03-17-09-02-51-2.jpg"
         alt=""
         width="960"
         height="540"

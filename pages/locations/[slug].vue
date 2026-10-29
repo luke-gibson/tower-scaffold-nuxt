@@ -60,7 +60,7 @@ useSeoMeta({
     <section class="c-loc-hero">
       <div class="c-loc-hero__media">
         <NuxtPicture
-          src="https://safe-broccoli-94775bb690.media.strapiapp.com/tower_scaffolding_home_banner_388334a539_39de340232.webp"
+          src="/images/PHOTO-2025-03-17-09-02-51-2.jpg"
           alt="Tower Scaffold + Safety Netting"
           width="1000"
           height="562"

@@ -86,7 +86,7 @@ useSeoMeta({
         </div>
         <div class="c-home-intro__media">
           <NuxtPicture
-            src="https://safe-broccoli-94775bb690.media.strapiapp.com/large_13ecd65f_c375_4d5d_8379_3171dfe5b51a_42ceb30f9a_e17f6c9f40.jpg"
+            src="/images/PHOTO-2025-03-17-09-02-45.jpg"
             alt="Tower Scaffold + Safety Netting scaffolding project"
             width="1000"
             height="563"
@@ -137,7 +137,7 @@ useSeoMeta({
       <LayoutContainer class="c-home-why__inner">
         <div class="c-home-why__media">
           <NuxtPicture
-            src="https://safe-broccoli-94775bb690.media.strapiapp.com/large_9e593a7c_804d_44dc_8dcd_316c42c1e7c2_988b2bb081_c99572696d.jpg"
+            src="/images/PHOTO-2025-03-17-09-02-47.jpg"
             alt="Residential scaffolding project"
             width="1000"
             height="750"
