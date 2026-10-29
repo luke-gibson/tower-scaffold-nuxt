@@ -40,6 +40,11 @@ export default defineNuxtConfig({
       ]
     }
   },
+  nitro: {
+    prerender: {
+      ignore: ['/_ipx/'],
+    },
+  },
   // @ts-ignore
   scripts: {
     registry: {
